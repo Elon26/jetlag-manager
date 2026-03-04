@@ -1,0 +1,76 @@
+import type { RemoteConfig } from '@/types';
+import initializeRemoteConfig, {
+  type FirebaseRemoteConfigTypes,
+} from '@react-native-firebase/remote-config';
+import { timeout } from './timeout';
+
+export class FirebasePlugin {
+  _remoteConfig: RemoteConfig;
+  _firebaseConfig: FirebaseRemoteConfigTypes.ConfigSettings;
+
+  get remoteValues() {
+    return this._remoteConfig;
+  }
+
+  constructor(options: {
+    remoteConfig: RemoteConfig;
+    firebaseConfig?: FirebaseRemoteConfigTypes.ConfigSettings;
+  }) {
+    this._remoteConfig = options.remoteConfig;
+    this._firebaseConfig = options.firebaseConfig ?? {
+      minimumFetchIntervalMillis: 0,
+      fetchTimeMillis: 5000,
+    };
+  }
+
+  async initialize() {
+    if (this._remoteConfig) {
+      const config = initializeRemoteConfig();
+
+      try {
+        await timeout(async () => {
+          await config.setConfigSettings(this._firebaseConfig);
+          await config.setDefaults({ ...this._remoteConfig });
+
+          await config.fetch(0);
+          await config.activate();
+        });
+
+        // @ts-expect-error
+        this._remoteConfig = Object.fromEntries(
+          Object.entries(config.getAll()).map(([key, entry]) => {
+            // @ts-expect-error
+            const defaultValue = this._remoteConfig[key];
+
+            if (!defaultValue) {
+              try {
+                // @ts-expect-error
+                const parsed = JSON.parse(entry._value);
+                return [key, parsed];
+              } catch {
+                return [key, entry.asString()];
+              }
+            }
+
+            if (typeof defaultValue === 'string') {
+              return [key, entry.asString()];
+            }
+
+            if (typeof defaultValue === 'boolean') {
+              return [key, entry.asBoolean()];
+            }
+
+            if (typeof defaultValue === 'number') {
+              return [key, entry.asNumber()];
+            }
+
+            // @ts-expect-error
+            return [key, JSON.parse(entry._value)];
+          })
+        );
+      } catch {
+        // no op
+      }
+    }
+  }
+}

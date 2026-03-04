@@ -1,0 +1,2299 @@
+[
+  {
+    "cities": ["Touba", "Bouafle", "Divo", "Toumodi", "Aboisso"],
+    "country": "Ivory Coast",
+    "timezone": "Africa/Abidjan"
+  },
+  {
+    "cities": ["Sunyani", "Tamale", "Yendi", "Bolgatanga", "Bawku"],
+    "country": "Ghana",
+    "timezone": "Africa/Accra"
+  },
+  {
+    "cities": ["Awasa", "Gore", "Debre Birhan", "Bati", "Adigrat"],
+    "country": "Ethiopia",
+    "timezone": "Africa/Addis_Ababa"
+  },
+  {
+    "cities": ["Jijel", "Tizi-Ouzou", "Bordj Bou Arreridj", "M'sila", "Guelma"],
+    "country": "Algeria",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "cities": ["Tessenei", "Agordat", "Massawa", "Keren", "Mendefera"],
+    "country": "Eritrea",
+    "timezone": "Africa/Asmara"
+  },
+  {
+    "cities": ["Goundam", "Aguelhok", "Bourem", "Kati", "Banamba"],
+    "country": "Mali",
+    "timezone": "Africa/Bamako"
+  },
+  {
+    "cities": ["Mobaye", "Mbaiki", "Carnot", "Bozoum", "Kaga Bandoro"],
+    "country": "Central African Republic",
+    "timezone": "Africa/Bangui"
+  },
+  {
+    "cities": [
+      "Georgetown",
+      "Basse Santa Su",
+      "Kerewan",
+      "Mansa Konko",
+      "Bansang"
+    ],
+    "country": "The Gambia",
+    "timezone": "Africa/Banjul"
+  },
+  {
+    "cities": ["Cacheu", "Farim", "Fulacunda", "Gabu", "Catio"],
+    "country": "Guinea Bissau",
+    "timezone": "Africa/Bissau"
+  },
+  {
+    "cities": ["Mzimba", "Machinga", "Dedza", "Mchinji", "Ntcheu"],
+    "country": "Malawi",
+    "timezone": "Africa/Blantyre"
+  },
+  {
+    "cities": ["Madingou", "Kinkala", "Ewo", "Impfondo", "Sembe"],
+    "country": "Congo (Brazzaville)",
+    "timezone": "Africa/Brazzaville"
+  },
+  {
+    "cities": ["Cankuzo", "Karusi", "Rutana", "Ruyigi", "Bubanza"],
+    "country": "Burundi",
+    "timezone": "Africa/Bujumbura"
+  },
+  {
+    "cities": ["Shibin el Kom", "Benha", "Zagazig", "Kafr el Sheikh", "Tanta"],
+    "country": "Egypt",
+    "timezone": "Africa/Cairo"
+  },
+  {
+    "cities": ["Ksar El Kebir", "Larache", "Taza", "Ouezzane", "Kenitra"],
+    "country": "Morocco",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "cities": ["Ceuta", "Melilla"],
+    "country": "Spain",
+    "timezone": "Africa/Ceuta"
+  },
+  {
+    "cities": ["Mali", "Tongue", "Kouroussa", "Pita", "Dalaba"],
+    "country": "Guinea",
+    "timezone": "Africa/Conakry"
+  },
+  {
+    "cities": ["Saint-Louis"],
+    "country": "Mauritania",
+    "timezone": "Africa/Dakar"
+  },
+  {
+    "cities": ["Fatick", "Diourbel", "Louga", "Thies"],
+    "country": "Senegal",
+    "timezone": "Africa/Dakar"
+  },
+  {
+    "cities": ["Wete", "Kibaha", "Mkokotoni", "Tunduma", "Tukuyu"],
+    "country": "Tanzania",
+    "timezone": "Africa/Dar_es_Salaam"
+  },
+  {
+    "cities": ["Dikhil", "Tadjoura", "Ali Sabih", "Obock", "Djibouti"],
+    "country": "Djibouti",
+    "timezone": "Africa/Djibouti"
+  },
+  {
+    "cities": ["Buea", "Bafang", "Foumban", "Bafoussam", "Kumba"],
+    "country": "Cameroon",
+    "timezone": "Africa/Douala"
+  },
+  {
+    "cities": ["Dawra", "Lemsid", "Bir Anzarane", "Smara", "Ad Dakhla"],
+    "country": "Morocco",
+    "timezone": "Africa/El_Aaiun"
+  },
+  {
+    "cities": ["Makeni", "Koidu", "Kenema", "Bo", "Freetown"],
+    "country": "Sierra Leone",
+    "timezone": "Africa/Freetown"
+  },
+  {
+    "cities": ["Mochudi", "Ghanzi", "Lokhwabe", "Lehututu", "Tshabong"],
+    "country": "Botswana",
+    "timezone": "Africa/Gaborone"
+  },
+  {
+    "cities": ["Mazowe", "Shamva", "Victoria Falls", "Zvishavane", "Kwekwe"],
+    "country": "Zimbabwe",
+    "timezone": "Africa/Harare"
+  },
+  {
+    "cities": ["Colesberg", "Poffader", "Carnarvon", "Prieska", "Kuruman"],
+    "country": "South Africa",
+    "timezone": "Africa/Johannesburg"
+  },
+  {
+    "cities": ["Bentiu", "Maridi", "Yei", "Melut", "Nasir"],
+    "country": "South Sudan",
+    "timezone": "Africa/Juba"
+  },
+  {
+    "cities": ["Kalangala", "Kumi", "Kaberamaido", "Kayunga", "Iganga"],
+    "country": "Uganda",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "cities": ["Ad Damazin", "Haiya", "El Manaqil", "Shendi", "Berber"],
+    "country": "Sudan",
+    "timezone": "Africa/Khartoum"
+  },
+  {
+    "cities": ["Gikongoro", "Kibuye", "Kibungo", "Nyanza", "Gitarama"],
+    "country": "Rwanda",
+    "timezone": "Africa/Kigali"
+  },
+  {
+    "cities": ["Zongo", "Libenge", "Bongandanga", "Ikela", "Binga"],
+    "country": "Congo (Kinshasa)",
+    "timezone": "Africa/Kinshasa"
+  },
+  {
+    "cities": ["Umuahia", "Uyo", "Owerri", "Dutse", "Damaturu"],
+    "country": "Nigeria",
+    "timezone": "Africa/Lagos"
+  },
+  {
+    "cities": ["Tchibanga", "Mekambo", "Makokou", "Mitzik", "Bitam"],
+    "country": "Gabon",
+    "timezone": "Africa/Libreville"
+  },
+  {
+    "cities": ["Bassar", "Sotouboua", "Kpalime", "Sokode", "Mango"],
+    "country": "Togo",
+    "timezone": "Africa/Lome"
+  },
+  {
+    "cities": ["Mucusso", "Lucapa", "Capenda-Camulemba", "Saurimo", "Muconda"],
+    "country": "Angola",
+    "timezone": "Africa/Luanda"
+  },
+  {
+    "cities": ["Buluko", "Yangambi", "Aketi", "Mongbwalu", "Bafwasende"],
+    "country": "Congo (Kinshasa)",
+    "timezone": "Africa/Lubumbashi"
+  },
+  {
+    "cities": ["Luangwa"],
+    "country": "Mozambique",
+    "timezone": "Africa/Lusaka"
+  },
+  {
+    "cities": ["Kawambwa", "Nchelenge", "Chinsali", "Kasama"],
+    "country": "Zambia",
+    "timezone": "Africa/Lusaka"
+  },
+  {
+    "cities": ["Evinayong", "Luba", "Calatrava", "Mongomo", "Bata"],
+    "country": "Equatorial Guinea",
+    "timezone": "Africa/Malabo"
+  },
+  {
+    "cities": ["Moatize", "Manica", "Espungabera", "Montepuez", "Mocimboa"],
+    "country": "Mozambique",
+    "timezone": "Africa/Maputo"
+  },
+  {
+    "cities": [
+      "Teyateyaneng",
+      "Mohales Hoek",
+      "Moyeni",
+      "Hlotse",
+      "Butha-Buthe"
+    ],
+    "country": "Lesotho",
+    "timezone": "Africa/Maseru"
+  },
+  {
+    "cities": ["Piggs Peak", "Siteki", "Manzini", "Hlatikulu", "Golela"],
+    "country": "Swaziland",
+    "timezone": "Africa/Mbabane"
+  },
+  {
+    "cities": [
+      "Hudur",
+      "Garbahaarey",
+      "Bu'aale",
+      "Dhuusa Mareeb",
+      "Buurhakaba"
+    ],
+    "country": "Somalia",
+    "timezone": "Africa/Mogadishu"
+  },
+  {
+    "cities": [
+      "Barclayville",
+      "Voinjama",
+      "Bensonville",
+      "Kakata",
+      "Sanniquellie"
+    ],
+    "country": "Liberia",
+    "timezone": "Africa/Monrovia"
+  },
+  {
+    "cities": ["Nyeri", "Mwingi", "Embu", "Machakos", "Nanyuki"],
+    "country": "Kenya",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "cities": ["Lai", "Zouar", "Bol", "Ati", "Oum Hadjer"],
+    "country": "Chad",
+    "timezone": "Africa/Ndjamena"
+  },
+  {
+    "cities": ["Goure", "Gaya", "Tillaberi", "Ayorou", "Birni Nkonni"],
+    "country": "Niger",
+    "timezone": "Africa/Niamey"
+  },
+  {
+    "cities": ["Fderik", "Aleg", "Akjoujt", "Zouirat", "Chegga"],
+    "country": "Mauritania",
+    "timezone": "Africa/Nouakchott"
+  },
+  {
+    "cities": ["Fada Ngourma", "Orodara", "Solenzo", "Nouna", "Dedougou"],
+    "country": "Burkina Faso",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "cities": ["Lokossa", "Kandi", "Ouidah", "Abomey", "Natitingou"],
+    "country": "Benin",
+    "timezone": "Africa/Porto-Novo"
+  },
+  {
+    "cities": ["Santo Antonio", "Sao Tome"],
+    "country": "Sao Tome and Principe",
+    "timezone": "Africa/Sao_Tome"
+  },
+  {
+    "cities": ["Dirj", "Nalut", "Zillah", "Al Khums", "Tajarhi"],
+    "country": "Libya",
+    "timezone": "Africa/Tripoli"
+  },
+  {
+    "cities": ["Medenine", "Kebili", "Tataouine", "L'Ariana", "Jendouba"],
+    "country": "Tunisia",
+    "timezone": "Africa/Tunis"
+  },
+  {
+    "cities": ["Omaruru", "Karibib", "Otavi", "Gobabis", "Karasburg"],
+    "country": "Namibia",
+    "timezone": "Africa/Windhoek"
+  },
+  {
+    "cities": ["Atka"],
+    "country": "United States of America",
+    "timezone": "America/Adak"
+  },
+  {
+    "cities": [
+      "Sand Point",
+      "Atqasuk",
+      "Port Heiden",
+      "Perryville",
+      "Dillingham"
+    ],
+    "country": "United States of America",
+    "timezone": "America/Anchorage"
+  },
+  {
+    "cities": ["Saint John's"],
+    "country": "Antigua and Barbuda",
+    "timezone": "America/Antigua"
+  },
+  {
+    "cities": [
+      "Tocantinopolis",
+      "Gurupi",
+      "Porto Nacional",
+      "Araguaina",
+      "Palmas"
+    ],
+    "country": "Brazil",
+    "timezone": "America/Araguaina"
+  },
+  {
+    "cities": ["Punta Alta", "San Nicolas", "Campana", "Chacabuco", "Mercedes"],
+    "country": "Argentina",
+    "timezone": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "cities": [
+      "Paso Rio Mayo",
+      "Alto Rio Sanguer",
+      "El Maiten",
+      "Puerto Madryn",
+      "Trelew"
+    ],
+    "country": "Argentina",
+    "timezone": "America/Argentina/Catamarca"
+  },
+  {
+    "cities": [
+      "San Francisco",
+      "Alta Gracia",
+      "Villa Maria",
+      "Bell Ville",
+      "Villa Rumipal"
+    ],
+    "country": "Argentina",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  {
+    "cities": ["Abra Pampa", "Humahuaca", "Susques", "Rinconada", "San Pedro"],
+    "country": "Argentina",
+    "timezone": "America/Argentina/Jujuy"
+  },
+  {
+    "cities": ["Chepes", "Chamical", "La Rioja"],
+    "country": "Argentina",
+    "timezone": "America/Argentina/La_Rioja"
+  },
+  {
+    "cities": ["Las Heras", "San Martin", "Uspallata", "Malargue", "Tunuyan"],
+    "country": "Argentina",
+    "timezone": "America/Argentina/Mendoza"
+  },
+  {
+    "cities": [
+      "28 de Noviembre",
+      "Gobernador Gregores",
+      "Comondante Luis Piedrabuena",
+      "Puerto San Julian",
+      "Perito Moreno"
+    ],
+    "country": "Argentina",
+    "timezone": "America/Argentina/Rio_Gallegos"
+  },
+  {
+    "cities": [
+      "Cutral Co",
+      "25 de Mayo",
+      "General Roca",
+      "Comallo",
+      "Ingeniero Jacobacci"
+    ],
+    "country": "Argentina",
+    "timezone": "America/Argentina/Salta"
+  },
+  {
+    "cities": ["Rodeo", "San Juan"],
+    "country": "Argentina",
+    "timezone": "America/Argentina/San_Juan"
+  },
+  {
+    "cities": ["Mercedes", "San Luis"],
+    "country": "Argentina",
+    "timezone": "America/Argentina/San_Luis"
+  },
+  {
+    "cities": ["Trancas", "Tucumán"],
+    "country": "Argentina",
+    "timezone": "America/Argentina/Tucuman"
+  },
+  {
+    "cities": ["Rio Grande", "Ushuaia"],
+    "country": "Argentina",
+    "timezone": "America/Argentina/Ushuaia"
+  },
+  { "cities": ["Oranjestad"], "country": "Aruba", "timezone": "America/Aruba" },
+  {
+    "cities": ["Doctor Pedro P. Pena"],
+    "country": "Argentina",
+    "timezone": "America/Asuncion"
+  },
+  {
+    "cities": [
+      "Mariscal Estigarribia",
+      "Caacupe",
+      "General Eugenio Alejandrino Garay",
+      "Arroyos y Esteros"
+    ],
+    "country": "Paraguay",
+    "timezone": "America/Asuncion"
+  },
+  {
+    "cities": ["Atikokan"],
+    "country": "Canada",
+    "timezone": "America/Atikokan"
+  },
+  {
+    "cities": [
+      "Santa Cruz Cabralia",
+      "Paulo Afonso",
+      "Brumado",
+      "Jaguaquara",
+      "Itapetinga"
+    ],
+    "country": "Brazil",
+    "timezone": "America/Bahia"
+  },
+  {
+    "cities": ["Bridgetown"],
+    "country": "Barbados",
+    "timezone": "America/Barbados"
+  },
+  {
+    "cities": ["Capanema", "Portel", "Itupiranga", "Viseu", "Capitao Poco"],
+    "country": "Brazil",
+    "timezone": "America/Belem"
+  },
+  {
+    "cities": ["El Cayo", "Corozal", "Dangriga", "Belize City", "Orange Walk"],
+    "country": "Belize",
+    "timezone": "America/Belize"
+  },
+  {
+    "cities": ["St-Augustin", "Chevery"],
+    "country": "Canada",
+    "timezone": "America/Blanc-Sablon"
+  },
+  {
+    "cities": ["Caracarai", "Boa Vista"],
+    "country": "Brazil",
+    "timezone": "America/Boa_Vista"
+  },
+  {
+    "cities": ["Yopal", "San Andres", "Sonson", "Sogamoso", "Barrancabermeja"],
+    "country": "Colombia",
+    "timezone": "America/Bogota"
+  },
+  {
+    "cities": ["Burley", "Ontario", "Montpelier", "Twin Falls", "Caldwell"],
+    "country": "United States of America",
+    "timezone": "America/Boise"
+  },
+  {
+    "cities": ["Gjoa Haven", "Cambridge Bay", "Kugluktuk", "Taloyoak"],
+    "country": "Canada",
+    "timezone": "America/Cambridge_Bay"
+  },
+  {
+    "cities": ["Ponta Pora", "Maracaju", "Jardim", "Tres Lagoas", "Aquidauana"],
+    "country": "Brazil",
+    "timezone": "America/Campo_Grande"
+  },
+  {
+    "cities": [
+      "Isla Mujeres",
+      "Felipe Carrillo Puerto",
+      "Chetumal",
+      "Cozumel",
+      "Cancun"
+    ],
+    "country": "Mexico",
+    "timezone": "America/Cancun"
+  },
+  {
+    "cities": [
+      "San Carlos",
+      "San Felipe",
+      "San Juan De Los Morros",
+      "La Asuncion",
+      "Guasdualito"
+    ],
+    "country": "Venezuela",
+    "timezone": "America/Caracas"
+  },
+  {
+    "cities": [
+      "Roura",
+      "Sinnamary",
+      "Saint-Georges",
+      "Saint-Laurent-du-Maroni",
+      "Iracoubo"
+    ],
+    "country": "France",
+    "timezone": "America/Cayenne"
+  },
+  {
+    "cities": ["George Town"],
+    "country": "Cayman Islands",
+    "timezone": "America/Cayman"
+  },
+  {
+    "cities": ["Faribault", "Mankato", "Albert Lea", "Willmar", "Brainerd"],
+    "country": "United States of America",
+    "timezone": "America/Chicago"
+  },
+  {
+    "cities": [
+      "Hidalgo del Parral",
+      "Cuauhtemoc",
+      "Nuevo Casas Grandes",
+      "Villa Ahumada",
+      "Santa Barbara"
+    ],
+    "country": "Mexico",
+    "timezone": "America/Chihuahua"
+  },
+  {
+    "cities": ["Coral Harbour"],
+    "country": "Canada",
+    "timezone": "America/Coral_Harbour"
+  },
+  {
+    "cities": ["Heredia", "Cartago", "Golfito", "Alajuela", "Canas"],
+    "country": "Costa Rica",
+    "timezone": "America/Costa_Rica"
+  },
+  { "cities": ["Creston"], "country": "Canada", "timezone": "America/Creston" },
+  {
+    "cities": [
+      "Varzea Grande",
+      "Cáceres",
+      "Juina",
+      "Barra do Garcas",
+      "Pontes e Lacerda"
+    ],
+    "country": "Brazil",
+    "timezone": "America/Cuiaba"
+  },
+  {
+    "cities": ["Willemstad"],
+    "country": "Curacao",
+    "timezone": "America/Curacao"
+  },
+  {
+    "cities": ["Ittoqqortoormiit"],
+    "country": "Greenland",
+    "timezone": "America/Danmarkshavn"
+  },
+  {
+    "cities": ["Dawson City"],
+    "country": "Canada",
+    "timezone": "America/Dawson"
+  },
+  {
+    "cities": ["Dawson Creek"],
+    "country": "Canada",
+    "timezone": "America/Dawson_Creek"
+  },
+  {
+    "cities": ["Hardin", "Glendive", "Dillon", "Polson", "Glenwood Springs"],
+    "country": "United States of America",
+    "timezone": "America/Denver"
+  },
+  { "cities": ["Windsor"], "country": "Canada", "timezone": "America/Detroit" },
+  {
+    "cities": ["Benton Harbor", "Battle Creek", "Bay City", "Alpena"],
+    "country": "United States of America",
+    "timezone": "America/Detroit"
+  },
+  {
+    "cities": ["Roseau"],
+    "country": "Dominica",
+    "timezone": "America/Dominica"
+  },
+  {
+    "cities": ["Camrose", "Hinton", "Vegreville", "Stettler", "Lac La Biche"],
+    "country": "Canada",
+    "timezone": "America/Edmonton"
+  },
+  {
+    "cities": ["Eirunepe"],
+    "country": "Brazil",
+    "timezone": "America/Eirunepe"
+  },
+  {
+    "cities": [
+      "Ahuachapan",
+      "Cojutepeque",
+      "Nueva San Salvador",
+      "Zacatecoluca",
+      "La Union"
+    ],
+    "country": "El Salvador",
+    "timezone": "America/El_Salvador"
+  },
+  {
+    "cities": ["Fort Nelson"],
+    "country": "Canada",
+    "timezone": "America/Fort_Nelson"
+  },
+  {
+    "cities": [
+      "Grajau",
+      "Presidente Dutra",
+      "Itapecuru Mirim",
+      "Sao Jose de Ribamar",
+      "Santa Ines"
+    ],
+    "country": "Brazil",
+    "timezone": "America/Fortaleza"
+  },
+  {
+    "cities": ["Sydney"],
+    "country": "Canada",
+    "timezone": "America/Glace_Bay"
+  },
+  {
+    "cities": ["Qasigiannguit", "Kullorsuaq", "Tasiusaq", "Kulusuk", "Paamiut"],
+    "country": "Greenland",
+    "timezone": "America/Godthab"
+  },
+  {
+    "cities": [
+      "Hopedale",
+      "Happy Valley - Goose Bay",
+      "Churchill Falls",
+      "Cartwright",
+      "Rigolet"
+    ],
+    "country": "Canada",
+    "timezone": "America/Goose_Bay"
+  },
+  {
+    "cities": ["Grand Turk"],
+    "country": "Turks and Caicos Islands",
+    "timezone": "America/Grand_Turk"
+  },
+  {
+    "cities": ["Saint George's"],
+    "country": "Grenada",
+    "timezone": "America/Grenada"
+  },
+  {
+    "cities": ["Pointe-a-Pitre", "Basse-terre"],
+    "country": "France",
+    "timezone": "America/Guadeloupe"
+  },
+  {
+    "cities": [
+      "Salama",
+      "Retalhuleu",
+      "San Marcos",
+      "Chimaltenango",
+      "Antigua Guatemala"
+    ],
+    "country": "Guatemala",
+    "timezone": "America/Guatemala"
+  },
+  {
+    "cities": ["Puyo", "Tulcan", "Pinas", "Guaranda", "Azogues"],
+    "country": "Ecuador",
+    "timezone": "America/Guayaquil"
+  },
+  {
+    "cities": ["Corriverton", "Ituni", "Lethem", "Kumaka", "Bartica"],
+    "country": "Guyana",
+    "timezone": "America/Guyana"
+  },
+  {
+    "cities": ["New Glasgow", "Liverpool", "Amherst", "Baddeck", "Shelburne"],
+    "country": "Canada",
+    "timezone": "America/Halifax"
+  },
+  {
+    "cities": [
+      "Ciego de Avila",
+      "Palma Soriano",
+      "San Antonio de los Banos",
+      "Guines",
+      "Caibarien"
+    ],
+    "country": "Cuba",
+    "timezone": "America/Havana"
+  },
+  {
+    "cities": [
+      "Esperanza",
+      "Magdalena",
+      "Nacozari Viejo",
+      "Agua Prieta",
+      "Ciudad Obregon"
+    ],
+    "country": "Mexico",
+    "timezone": "America/Hermosillo"
+  },
+  {
+    "cities": ["Richmond", "Terre Haute", "Lafayette", "Marion", "South Bend"],
+    "country": "United States of America",
+    "timezone": "America/Indiana/Indianapolis"
+  },
+  { "cities": ["Inuvik"], "country": "Canada", "timezone": "America/Inuvik" },
+  {
+    "cities": [
+      "Hall Beach",
+      "Pond Inlet",
+      "Cape Dorset",
+      "Kimmirut",
+      "Grise Fiord"
+    ],
+    "country": "Canada",
+    "timezone": "America/Iqaluit"
+  },
+  {
+    "cities": [
+      "Lucea",
+      "Mandeville",
+      "Black River",
+      "Falmouth",
+      "Savanna-la-Mar"
+    ],
+    "country": "Jamaica",
+    "timezone": "America/Jamaica"
+  },
+  {
+    "cities": ["Hoonah", "Skagway", "Juneau"],
+    "country": "United States of America",
+    "timezone": "America/Juneau"
+  },
+  {
+    "cities": ["New Albany", "Louisville"],
+    "country": "United States of America",
+    "timezone": "America/Kentucky/Louisville"
+  },
+  {
+    "cities": [
+      "Punata",
+      "Cliza",
+      "Quillacollo",
+      "Puerto Villarroel",
+      "Tarabuco"
+    ],
+    "country": "Bolivia",
+    "timezone": "America/La_Paz"
+  },
+  {
+    "cities": ["Puerto Heath"],
+    "country": "Bolivia",
+    "timezone": "America/Lima"
+  },
+  {
+    "cities": ["Ferrenafe", "Motupe", "Mollendo", "Urubamba"],
+    "country": "Peru",
+    "timezone": "America/Lima"
+  },
+  {
+    "cities": [
+      "Wallace",
+      "Kennewick",
+      "Centralia",
+      "Berkeley",
+      "National City"
+    ],
+    "country": "United States of America",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "cities": [
+      "Rio Largo",
+      "Palmeira dos Indios",
+      "Penedo",
+      "Estancia",
+      "Arapiraca"
+    ],
+    "country": "Brazil",
+    "timezone": "America/Maceio"
+  },
+  {
+    "cities": ["Somoto", "Ocotal", "San Carlos", "Jinotepe", "Jinotega"],
+    "country": "Nicaragua",
+    "timezone": "America/Managua"
+  },
+  {
+    "cities": ["Manacapuru", "Maues", "Fonte Boa", "Manicore", "Barcelos"],
+    "country": "Brazil",
+    "timezone": "America/Manaus"
+  },
+  {
+    "cities": ["Fort-de-France"],
+    "country": "France",
+    "timezone": "America/Martinique"
+  },
+  {
+    "cities": [
+      "Reynosa",
+      "Piedras Negras",
+      "Sierra Mojada",
+      "Matamoros",
+      "Nuevo Laredo"
+    ],
+    "country": "Mexico",
+    "timezone": "America/Matamoros"
+  },
+  {
+    "cities": [
+      "Loreto",
+      "Ciudad Constitucion",
+      "Villa Union",
+      "Altata",
+      "Santiago Ixcuintla"
+    ],
+    "country": "Mexico",
+    "timezone": "America/Mazatlan"
+  },
+  {
+    "cities": ["Iron Mountain", "Ironwood"],
+    "country": "United States of America",
+    "timezone": "America/Menominee"
+  },
+  {
+    "cities": ["Motul", "Tekax", "Peto", "Halacho", "Ciudad del Carmen"],
+    "country": "Mexico",
+    "timezone": "America/Merida"
+  },
+  {
+    "cities": [
+      "Villanueva",
+      "Cardenas",
+      "Ciudad Valles",
+      "Rio Verde",
+      "Autlan"
+    ],
+    "country": "Mexico",
+    "timezone": "America/Mexico_City"
+  },
+  {
+    "cities": [
+      "Saint John",
+      "Edmundston",
+      "Moncton",
+      "Fredericton",
+      "Bathurst"
+    ],
+    "country": "Canada",
+    "timezone": "America/Moncton"
+  },
+  {
+    "cities": [
+      "Allende",
+      "Nueva Rosita",
+      "Gomez Palacio",
+      "Canatlan",
+      "Montemorelos"
+    ],
+    "country": "Mexico",
+    "timezone": "America/Monterrey"
+  },
+  {
+    "cities": [
+      "Colonia del Sacramento",
+      "Trinidad",
+      "Fray Bentos",
+      "Canelones",
+      "Florida"
+    ],
+    "country": "Uruguay",
+    "timezone": "America/Montevideo"
+  },
+  {
+    "cities": [
+      "Port-Menier",
+      "Riviere-du-Loup",
+      "Drummondville",
+      "Sherbrooke",
+      "Cap-Chat"
+    ],
+    "country": "Canada",
+    "timezone": "America/Montreal"
+  },
+  {
+    "cities": ["Freeport", "Nassau"],
+    "country": "The Bahamas",
+    "timezone": "America/Nassau"
+  },
+  {
+    "cities": [
+      "New London",
+      "Stamford",
+      "Waterbury",
+      "New Bedford",
+      "Springfield"
+    ],
+    "country": "United States of America",
+    "timezone": "America/New_York"
+  },
+  { "cities": ["Nipigon"], "country": "Canada", "timezone": "America/Nipigon" },
+  {
+    "cities": ["Mekoryuk", "Tununak", "Mountain Village", "Emmonak", "Teller"],
+    "country": "United States of America",
+    "timezone": "America/Nome"
+  },
+  {
+    "cities": ["Ascension", "Ojinaga", "Ciudad Juárez"],
+    "country": "Mexico",
+    "timezone": "America/Ojinaga"
+  },
+  {
+    "cities": ["El Porvenir", "Penonome", "Chitre", "Jaque", "Bocas del Toro"],
+    "country": "Panama",
+    "timezone": "America/Panama"
+  },
+  {
+    "cities": ["Pangnirtung", "Alert"],
+    "country": "Canada",
+    "timezone": "America/Pangnirtung"
+  },
+  {
+    "cities": [
+      "Onverwacht",
+      "Groningen",
+      "Brownsweg",
+      "Moengo",
+      "Nieuw Amsterdam"
+    ],
+    "country": "Suriname",
+    "timezone": "America/Paramaribo"
+  },
+  {
+    "cities": [
+      "Glendale",
+      "Safford",
+      "Casa Grande",
+      "Mesa",
+      "Lake Havasu City"
+    ],
+    "country": "United States of America",
+    "timezone": "America/Phoenix"
+  },
+  {
+    "cities": ["Jeremie", "Port-De-Paix", "Hinche", "Fort-Liberte", "Jacmel"],
+    "country": "Haiti",
+    "timezone": "America/Port-au-Prince"
+  },
+  {
+    "cities": ["San Fernando", "Port-of-Spain"],
+    "country": "Trinidad and Tobago",
+    "timezone": "America/Port_of_Spain"
+  },
+  {
+    "cities": [
+      "Pimenta Bueno",
+      "Rolim de Moura",
+      "Ariquemes",
+      "Abuna",
+      "Principe da Beira"
+    ],
+    "country": "Brazil",
+    "timezone": "America/Porto_Velho"
+  },
+  {
+    "cities": ["Ponce", "Mayaguez", "Arecibo", "San Juan"],
+    "country": "Puerto Rico",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "cities": [
+      "Baker Lake",
+      "Ennadai",
+      "Rankin Inlet",
+      "Chesterfield Inlet",
+      "Arviat"
+    ],
+    "country": "Canada",
+    "timezone": "America/Rankin_Inlet"
+  },
+  {
+    "cities": [
+      "Jaboatao",
+      "Olinda",
+      "Cabo de Santo Agostinho",
+      "Carpina",
+      "Arcoverde"
+    ],
+    "country": "Brazil",
+    "timezone": "America/Recife"
+  },
+  {
+    "cities": ["Melville", "Weyburn", "La Ronge", "Stony Rapids", "Yorkton"],
+    "country": "Canada",
+    "timezone": "America/Regina"
+  },
+  {
+    "cities": ["Resolute"],
+    "country": "Canada",
+    "timezone": "America/Resolute"
+  },
+  {
+    "cities": ["Cobija"],
+    "country": "Bolivia",
+    "timezone": "America/Rio_Branco"
+  },
+  {
+    "cities": ["Sena Madureira", "Rio Branco", "Cruzeiro do Sul"],
+    "country": "Brazil",
+    "timezone": "America/Rio_Branco"
+  },
+  {
+    "cities": ["Alenquer", "Oriximina", "Uruara", "Altamira", "Obidos"],
+    "country": "Brazil",
+    "timezone": "America/Santarem"
+  },
+  {
+    "cities": [
+      "Rio Verde",
+      "Cuya",
+      "Chuquicamata",
+      "Maria Elena",
+      "Tierra Amarilla"
+    ],
+    "country": "Chile",
+    "timezone": "America/Santiago"
+  },
+  {
+    "cities": ["Sabaneta", "Mao", "Cotui", "Puerto Plata", "Dajabon"],
+    "country": "Dominican Republic",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "cities": ["Guanhaes", "Leopoldina", "Nova Lima", "Pouso Alegre", "Itauna"],
+    "country": "Brazil",
+    "timezone": "America/Sao_Paulo"
+  },
+  {
+    "cities": ["Hydaburg", "Wrangell", "Ketchikan", "Sitka"],
+    "country": "United States of America",
+    "timezone": "America/Sitka"
+  },
+  {
+    "cities": [
+      "Deer Lake",
+      "La Scie",
+      "Port Hope Simpson",
+      "Stephenville",
+      "Argentia"
+    ],
+    "country": "Canada",
+    "timezone": "America/St_Johns"
+  },
+  {
+    "cities": ["Basseterre"],
+    "country": "Saint Kitts and Nevis",
+    "timezone": "America/St_Kitts"
+  },
+  {
+    "cities": ["Castries"],
+    "country": "Saint Lucia",
+    "timezone": "America/St_Lucia"
+  },
+  {
+    "cities": ["Christiansted"],
+    "country": "United States Virgin Islands",
+    "timezone": "America/St_Thomas"
+  },
+  {
+    "cities": ["Kingstown"],
+    "country": "Saint Vincent and the Grenadines",
+    "timezone": "America/St_Vincent"
+  },
+  {
+    "cities": ["Yoro", "La Esperanza", "La Paz", "Santa Barbara", "Gracias"],
+    "country": "Honduras",
+    "timezone": "America/Tegucigalpa"
+  },
+  {
+    "cities": ["Savissivik", "Qaanaaq"],
+    "country": "Greenland",
+    "timezone": "America/Thule"
+  },
+  {
+    "cities": ["Thunder Bay"],
+    "country": "Canada",
+    "timezone": "America/Thunder_Bay"
+  },
+  {
+    "cities": [
+      "Vicente Guerrero",
+      "San Quintin",
+      "Punta Prieta",
+      "San Felipe",
+      "Ensenada"
+    ],
+    "country": "Mexico",
+    "timezone": "America/Tijuana"
+  },
+  {
+    "cities": [
+      "Owen Sound",
+      "Orillia",
+      "Kapuskasing",
+      "Thessalon",
+      "Geraldton"
+    ],
+    "country": "Canada",
+    "timezone": "America/Toronto"
+  },
+  {
+    "cities": ["Terrace", "Chilliwack", "Tofino", "Bella Bella", "Sandspit"],
+    "country": "Canada",
+    "timezone": "America/Vancouver"
+  },
+  {
+    "cities": ["Burwash Landing", "Watson Lake", "Whitehorse"],
+    "country": "Canada",
+    "timezone": "America/Whitehorse"
+  },
+  {
+    "cities": [
+      "Selkirk",
+      "Berens River",
+      "Pukatawagan",
+      "Gimli",
+      "Island Lake"
+    ],
+    "country": "Canada",
+    "timezone": "America/Winnipeg"
+  },
+  {
+    "cities": ["Yakutat"],
+    "country": "United States of America",
+    "timezone": "America/Yakutat"
+  },
+  {
+    "cities": ["Lutselke", "Hay River", "Déline", "Paulatuk", "Tsiigehtchic"],
+    "country": "Canada",
+    "timezone": "America/Yellowknife"
+  },
+  {
+    "cities": ["Longyearbyen"],
+    "country": "Svalbard and Jan Mayen Islands",
+    "timezone": "Arctic/Longyearbyen"
+  },
+  {
+    "cities": ["Al Bayda", "'Ataq", "Marib", "Dhamar", "Ibb"],
+    "country": "Yemen",
+    "timezone": "Asia/Aden"
+  },
+  {
+    "cities": ["Bestobe", "Osakarovka", "Aqadyr", "Sharbaqty", "Shemonaikha"],
+    "country": "Kazakhstan",
+    "timezone": "Asia/Almaty"
+  },
+  {
+    "cities": ["Al Mafraq", "At Tafilah", "Ma'an", "Irbid", "As Salt"],
+    "country": "Jordan",
+    "timezone": "Asia/Amman"
+  },
+  {
+    "cities": [
+      "Enurmino",
+      "Lavrentiya",
+      "Zvezdnyy",
+      "Mukhomornoye",
+      "Beringovskiy",
+      "Anadyr"
+    ],
+    "country": "Russia",
+    "timezone": "Asia/Anadyr"
+  },
+  {
+    "cities": [
+      "Mangyshlak",
+      "Fort Shevchenko",
+      "Zhangaozen",
+      "Beyneu",
+      "Aktau"
+    ],
+    "country": "Kazakhstan",
+    "timezone": "Asia/Aqtau"
+  },
+  {
+    "cities": ["Oktyabrsk", "Algha", "Bayghanin", "Embi", "Khromtau"],
+    "country": "Kazakhstan",
+    "timezone": "Asia/Aqtobe"
+  },
+  {
+    "cities": ["Gyzlarbat", "Celeken", "Tejen", "Buzmeyin", "Koneurgench"],
+    "country": "Turkmenistan",
+    "timezone": "Asia/Ashgabat"
+  },
+  {
+    "cities": ["Maqat", "Makhambet", "Balyqshy", "Qulsary", "Atyrau"],
+    "country": "Kazakhstan",
+    "timezone": "Asia/Atyrau"
+  },
+  {
+    "cities": ["Dahuk", "Samarra", "Az Aubayr", "Ad Diwaniyah", "Ash Shatrah"],
+    "country": "Iraq",
+    "timezone": "Asia/Baghdad"
+  },
+  { "cities": ["Manama"], "country": "Bahrain", "timezone": "Asia/Bahrain" },
+  {
+    "cities": ["Gadabay", "Goranboy", "Tovuz", "Agdam", "Qabala"],
+    "country": "Azerbaijan",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "cities": ["Mae Hong Son", "Phangnga", "Ranong", "Krabi", "Phatthalung"],
+    "country": "Thailand",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "cities": [
+      "Biysk",
+      "Zmeinogorsk",
+      "Aleysk",
+      "Novoaltaysk",
+      "Kamenna Obi",
+      "Barnaul"
+    ],
+    "country": "Russia",
+    "timezone": "Asia/Barnaul"
+  },
+  {
+    "cities": ["B'abda", "Nabatiye et Tahta", "Saida", "Zahle", "Trablous"],
+    "country": "Lebanon",
+    "timezone": "Asia/Beirut"
+  },
+  {
+    "cities": ["Tokmak", "Kara Balta", "Cholpon Ata", "Naryn", "Kok Yangak"],
+    "country": "Kyrgyzstan",
+    "timezone": "Asia/Bishkek"
+  },
+  {
+    "cities": ["Bandar Seri Begawan"],
+    "country": "Brunei",
+    "timezone": "Asia/Brunei"
+  },
+  {
+    "cities": [
+      "Shilka",
+      "Sherlovaya Gora",
+      "Petrovsk Zabaykalskiy",
+      "Aginskoye",
+      "Nerchinsk",
+      "Chita"
+    ],
+    "country": "Russia",
+    "timezone": "Asia/Chita"
+  },
+  {
+    "cities": ["Baruun Urt", "Choybalsan"],
+    "country": "Mongolia",
+    "timezone": "Asia/Choibalsan"
+  },
+  {
+    "cities": ["Linxia", "Dali", "Deyang", "Tengchong", "Mengzi"],
+    "country": "China",
+    "timezone": "Asia/Chongqing"
+  },
+  {
+    "cities": [
+      "Trincomalee",
+      "Puttalan",
+      "Ratnapura",
+      "Batticaloa",
+      "Kilinochchi"
+    ],
+    "country": "Sri Lanka",
+    "timezone": "Asia/Colombo"
+  },
+  {
+    "cities": [
+      "Dar'a",
+      "Al Ladhiqiyah",
+      "Madinat ath Thawrah",
+      "Izaz",
+      "Manbij"
+    ],
+    "country": "Syria",
+    "timezone": "Asia/Damascus"
+  },
+  {
+    "cities": ["Tangail", "Sylhet", "Mymensingh", "Jamalpur", "Narayanganj"],
+    "country": "Bangladesh",
+    "timezone": "Asia/Dhaka"
+  },
+  { "cities": ["Dili"], "country": "East Timor", "timezone": "Asia/Dili" },
+  {
+    "cities": [
+      "Umm al Qaywayn",
+      "Sharjah",
+      "Jabal Ali",
+      "Ras al Khaymah",
+      "Al Fujayrah"
+    ],
+    "country": "United Arab Emirates",
+    "timezone": "Asia/Dubai"
+  },
+  {
+    "cities": [
+      "Leninobod",
+      "Qurghonteppa",
+      "Konibodom",
+      "Kuybyshevskiy",
+      "Kulob"
+    ],
+    "country": "Tajikistan",
+    "timezone": "Asia/Dushanbe"
+  },
+  {
+    "cities": ["Kyrenia", "Ammochostos"],
+    "country": "Northern Cyprus",
+    "timezone": "Asia/Famagusta"
+  },
+  { "cities": ["Gaza"], "country": "Palestine", "timezone": "Asia/Gaza" },
+  {
+    "cities": ["Daan", "Changling", "Tonghua", "Baishan", "Yanji"],
+    "country": "China",
+    "timezone": "Asia/Harbin"
+  },
+  {
+    "cities": ["Ramallah", "Al Khalil", "Nablus"],
+    "country": "Palestine",
+    "timezone": "Asia/Hebron"
+  },
+  {
+    "cities": ["Tay Ninh", "Luan Chau", "Bac Kan", "Lang Son", "Son La"],
+    "country": "Vietnam",
+    "timezone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "cities": ["Hong Kong"],
+    "country": "Hong Kong S.A.R.",
+    "timezone": "Asia/Hong_Kong"
+  },
+  {
+    "cities": ["Olgiy", "Hodrogo", "Uliastay", "Altay", "Ulaangom"],
+    "country": "Mongolia",
+    "timezone": "Asia/Hovd"
+  },
+  {
+    "cities": [
+      "Ust' Ordynskiy",
+      "Ulkan",
+      "Kirensk",
+      "Zheleznogorsk Ilimskiy",
+      "Vikhorevka",
+      "Irkutsk"
+    ],
+    "country": "Russia",
+    "timezone": "Asia/Irkutsk"
+  },
+  {
+    "cities": [
+      "Binjai",
+      "Padangsidempuan",
+      "Tarutung",
+      "Tebingtinggi",
+      "Bukittinggi"
+    ],
+    "country": "Indonesia",
+    "timezone": "Asia/Jakarta"
+  },
+  {
+    "cities": ["Tidore", "Amahai", "Biak", "Timika", "Sorong"],
+    "country": "Indonesia",
+    "timezone": "Asia/Jayapura"
+  },
+  {
+    "cities": ["Ramla", "Beer Sheva", "Haifa", "Nazareth", "Jerusalem"],
+    "country": "Israel",
+    "timezone": "Asia/Jerusalem"
+  },
+  {
+    "cities": [
+      "Qal eh-ye Now",
+      "Chaghcharan",
+      "Lashkar Gah",
+      "Zaranj",
+      "Tarin Kowt"
+    ],
+    "country": "Afghanistan",
+    "timezone": "Asia/Kabul"
+  },
+  {
+    "cities": [
+      "Pakhachi",
+      "Utkholok",
+      "Bol'sheretsk",
+      "Il'pyrskiy",
+      "Korf",
+      "Kamchatka"
+    ],
+    "country": "Russia",
+    "timezone": "Asia/Kamchatka"
+  },
+  {
+    "cities": ["Parachinar", "Sialkote", "Sheikhu Pura", "Gujrat", "Sahiwal"],
+    "country": "Pakistan",
+    "timezone": "Asia/Karachi"
+  },
+  {
+    "cities": ["Gar", "Aksu", "Shache", "Yining", "Hotan"],
+    "country": "China",
+    "timezone": "Asia/Kashgar"
+  },
+  {
+    "cities": ["Salyan", "Baglung", "Jumla", "Bhairawa", "Dandeldhura"],
+    "country": "Nepal",
+    "timezone": "Asia/Kathmandu"
+  },
+  {
+    "cities": ["Eldikan", "Chagda", "Khandyga", "Ust Maya"],
+    "country": "Russia",
+    "timezone": "Asia/Khandyga"
+  },
+  {
+    "cities": ["Panaji", "Simla", "Gurugram", "Sonipat", "Rohtak"],
+    "country": "India",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "cities": [
+      "Chernogorsk",
+      "Abaza",
+      "Zaozernyy",
+      "Bogotol",
+      "Shira",
+      "Krasnoyarsk"
+    ],
+    "country": "Russia",
+    "timezone": "Asia/Krasnoyarsk"
+  },
+  {
+    "cities": [
+      "Kangar",
+      "Kuala Lipis",
+      "Shah Alam",
+      "Teluk Intan",
+      "Butterworth"
+    ],
+    "country": "Malaysia",
+    "timezone": "Asia/Kuala_Lumpur"
+  },
+  {
+    "cities": ["Lahad Datu", "Bintulu", "Miri", "Tawau", "Sandakan"],
+    "country": "Malaysia",
+    "timezone": "Asia/Kuching"
+  },
+  {
+    "cities": ["Hawalli", "Al Ahmadi", "Al Jahra", "Kuwait"],
+    "country": "Kuwait",
+    "timezone": "Asia/Kuwait"
+  },
+  { "cities": ["Macau"], "country": "Macau S.A.R", "timezone": "Asia/Macau" },
+  {
+    "cities": ["Omchak", "Siglan", "Karamken", "Strelka", "Evensk", "Magadan"],
+    "country": "Russia",
+    "timezone": "Asia/Magadan"
+  },
+  {
+    "cities": ["Mataram", "Praya", "Baubau", "Luwuk", "Poso"],
+    "country": "Indonesia",
+    "timezone": "Asia/Makassar"
+  },
+  {
+    "cities": ["San Carlos", "Cadiz", "Pagadian", "Ozamis", "Tarlac"],
+    "country": "Philippines",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "cities": ["Alayat Samail", "Dawwah", "Mirbat", "Ibri", "Salalah"],
+    "country": "Oman",
+    "timezone": "Asia/Muscat"
+  },
+  {
+    "cities": ["Larnaka", "Paphos", "Lemosos", "Nicosia"],
+    "country": "Cyprus",
+    "timezone": "Asia/Nicosia"
+  },
+  {
+    "cities": [
+      "Leninsk Kuznetsky",
+      "Anzhero Sudzhensk",
+      "Kiselevsk",
+      "Mundybash",
+      "Tashtagol",
+      "Novokuznetsk"
+    ],
+    "country": "Russia",
+    "timezone": "Asia/Novokuznetsk"
+  },
+  {
+    "cities": [
+      "Iskitim",
+      "Toguchin",
+      "Kupina",
+      "Cherepanovo",
+      "Kargat",
+      "Novosibirsk"
+    ],
+    "country": "Russia",
+    "timezone": "Asia/Novosibirsk"
+  },
+  {
+    "cities": [
+      "Cherlak",
+      "Kalachinsk",
+      "Nazyvayevsk",
+      "Isikul",
+      "Tara",
+      "Omsk"
+    ],
+    "country": "Russia",
+    "timezone": "Asia/Omsk"
+  },
+  {
+    "cities": ["Chapaev", "Zhanibek", "Aqsay", "Oral"],
+    "country": "Kazakhstan",
+    "timezone": "Asia/Oral"
+  },
+  {
+    "cities": [
+      "Kampong Spoe",
+      "Kampong Thum",
+      "Prey Veng",
+      "Phnum Tbeng Meanchey",
+      "Stoeng Treng"
+    ],
+    "country": "Cambodia",
+    "timezone": "Asia/Phnom_Penh"
+  },
+  {
+    "cities": [
+      "Singkawang",
+      "Sampit",
+      "Kualakapuas",
+      "Palangkaraya",
+      "Pontianak"
+    ],
+    "country": "Indonesia",
+    "timezone": "Asia/Pontianak"
+  },
+  {
+    "cities": ["Sariwon", "Sin-Ni", "Changyon", "Anbyon", "Munchon"],
+    "country": "North Korea",
+    "timezone": "Asia/Pyongyang"
+  },
+  { "cities": ["Doha"], "country": "Qatar", "timezone": "Asia/Qatar" },
+  {
+    "cities": ["Turgay", "Zhosaly", "Zhetiqara", "Komsomolets", "Tobol"],
+    "country": "Kazakhstan",
+    "timezone": "Asia/Qyzylorda"
+  },
+  {
+    "cities": ["Loikaw", "Pa-an", "Hakha", "Taunggyi", "Sagaing"],
+    "country": "Myanmar",
+    "timezone": "Asia/Rangoon"
+  },
+  {
+    "cities": [
+      "An Nabk",
+      "Sakakah",
+      "Yanbu al Bahr",
+      "Dawmat al Jandal",
+      "Qal at Bishah"
+    ],
+    "country": "Saudi Arabia",
+    "timezone": "Asia/Riyadh"
+  },
+  {
+    "cities": [
+      "Uglegorsk",
+      "Kholmsk",
+      "Krasnogorsk",
+      "Poronaysk",
+      "Makarov",
+      "Sakhalin"
+    ],
+    "country": "Russia",
+    "timezone": "Asia/Sakhalin"
+  },
+  {
+    "cities": ["Khujayli", "Urgut", "Kattaqorgon", "Denow", "Kogon"],
+    "country": "Uzbekistan",
+    "timezone": "Asia/Samarkand"
+  },
+  {
+    "cities": ["Eumseong", "Cheongju", "Wonju", "Chuncheon", "Ansan"],
+    "country": "South Korea",
+    "timezone": "Asia/Seoul"
+  },
+  {
+    "cities": ["Zhuozhou", "Sanming", "Huizhou", "Chaozhou", "Yangquan"],
+    "country": "China",
+    "timezone": "Asia/Shanghai"
+  },
+  {
+    "cities": ["Singapore"],
+    "country": "Singapore",
+    "timezone": "Asia/Singapore"
+  },
+  {
+    "cities": [
+      "Mikhalkino",
+      "Logashkino",
+      "Severo Kurilsk",
+      "Cherskiy",
+      "Srednekolymsk"
+    ],
+    "country": "Russia",
+    "timezone": "Asia/Srednekolymsk"
+  },
+  {
+    "cities": ["Bade", "Pingzhen", "Taibao", "Taoyuan", "Yangmei"],
+    "country": "Taiwan",
+    "timezone": "Asia/Taipei"
+  },
+  {
+    "cities": ["Guliston", "Iskandar", "Chirchiq", "Qoqon", "Jizzax"],
+    "country": "Uzbekistan",
+    "timezone": "Asia/Tashkent"
+  },
+  {
+    "cities": ["Kutaisi", "Tskhinvali", "Poti", "Rustavi", "Batumi"],
+    "country": "Georgia",
+    "timezone": "Asia/Tbilisi"
+  },
+  {
+    "cities": ["Yasuj", "Shar e Kord", "Marv Dasht", "Shahrud", "Varamin"],
+    "country": "Iran",
+    "timezone": "Asia/Tehran"
+  },
+  {
+    "cities": ["Paro", "Punakha", "Wangdue Prodrang", "Thimphu"],
+    "country": "Bhutan",
+    "timezone": "Asia/Thimphu"
+  },
+  {
+    "cities": ["Okayama", "Shimonoseki", "Kanoya", "Takamatsu", "Tokushima"],
+    "country": "Japan",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "cities": ["Timiryazevskiy", "Asino", "Strezhevoy", "Kolpashevo", "Tomsk"],
+    "country": "Russia",
+    "timezone": "Asia/Tomsk"
+  },
+  {
+    "cities": [
+      "Suchboatar",
+      "Dzuunmod",
+      "Tsetserleg",
+      "Ulaan-Uul",
+      "Buyant-Uhaa"
+    ],
+    "country": "Mongolia",
+    "timezone": "Asia/Ulaanbaatar"
+  },
+  {
+    "cities": ["Yumen", "Gyangze", "Anxi", "Maoming", "Turpan"],
+    "country": "China",
+    "timezone": "Asia/Urumqi"
+  },
+  { "cities": ["Ust Nera"], "country": "Russia", "timezone": "Asia/Ust-Nera" },
+  {
+    "cities": [
+      "Ban Houayxay",
+      "Louang Namtha",
+      "Champasak",
+      "Saravan",
+      "Xam Nua"
+    ],
+    "country": "Laos",
+    "timezone": "Asia/Vientiane"
+  },
+  {
+    "cities": [
+      "Arsenyev",
+      "Partizansk",
+      "Dalnerechensk",
+      "Zemlya Bunge",
+      "Obluchye",
+      "Vladivostok"
+    ],
+    "country": "Russia",
+    "timezone": "Asia/Vladivostok"
+  },
+  {
+    "cities": [
+      "Khorgo",
+      "Put Lenina",
+      "Progress",
+      "Belogorsk",
+      "Nyukzha",
+      "Yakutsk"
+    ],
+    "country": "Russia",
+    "timezone": "Asia/Yakutsk"
+  },
+  {
+    "cities": [
+      "Oktyabrskiy",
+      "Plast",
+      "Bakal",
+      "Verkhniy Ufaley",
+      "Krasnoturinsk",
+      "Yekaterinburg"
+    ],
+    "country": "Russia",
+    "timezone": "Asia/Yekaterinburg"
+  },
+  {
+    "cities": ["Ashtarak", "Ijevan", "Artashat", "Gavarr", "Yeghegnadzor"],
+    "country": "Armenia",
+    "timezone": "Asia/Yerevan"
+  },
+  {
+    "cities": ["Horta", "Angra do Heroismo", "Ponta Delgada"],
+    "country": "Portugal",
+    "timezone": "Atlantic/Azores"
+  },
+  {
+    "cities": ["Hamilton"],
+    "country": "Bermuda",
+    "timezone": "Atlantic/Bermuda"
+  },
+  {
+    "cities": ["Arrecife", "Santa Cruz de Tenerife", "Las Palmas"],
+    "country": "Spain",
+    "timezone": "Atlantic/Canary"
+  },
+  {
+    "cities": ["Mindelo", "Praia"],
+    "country": "Cape Verde",
+    "timezone": "Atlantic/Cape_Verde"
+  },
+  {
+    "cities": ["Klaksvik", "Tórshavn"],
+    "country": "Faroe Islands",
+    "timezone": "Atlantic/Faroe"
+  },
+  {
+    "cities": ["Funchal"],
+    "country": "Portugal",
+    "timezone": "Atlantic/Madeira"
+  },
+  {
+    "cities": ["Borgarnes", "Egilsstaðir", "Sauðárkrókur", "Selfoss", "Hofn"],
+    "country": "Iceland",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "cities": ["Grytviken"],
+    "country": "South Georgia and the Islands",
+    "timezone": "Atlantic/South_Georgia"
+  },
+  {
+    "cities": ["Fox Bay", "Stanley"],
+    "country": "Falkland Islands",
+    "timezone": "Atlantic/Stanley"
+  },
+  {
+    "cities": ["Berri", "Peterborough", "Wallaroo", "Clare", "Meningie"],
+    "country": "Australia",
+    "timezone": "Australia/Adelaide"
+  },
+  {
+    "cities": [
+      "Sunshine Coast",
+      "Proserpine",
+      "Theodore",
+      "Eidsvold",
+      "Barcaldine"
+    ],
+    "country": "Australia",
+    "timezone": "Australia/Brisbane"
+  },
+  {
+    "cities": ["Broken Hill"],
+    "country": "Australia",
+    "timezone": "Australia/Broken_Hill"
+  },
+  {
+    "cities": [
+      "Pine Creek",
+      "Adelaide River",
+      "McMinns Lagoon",
+      "Newcastle Waters",
+      "Tennant Creek"
+    ],
+    "country": "Australia",
+    "timezone": "Australia/Darwin"
+  },
+  {
+    "cities": ["Smithton", "Scottsdale", "Bicheno", "Oatlands", "Queenstown"],
+    "country": "Australia",
+    "timezone": "Australia/Hobart"
+  },
+  {
+    "cities": ["Echuca", "Hamilton", "Ouyen", "Colac", "Stawell"],
+    "country": "Australia",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "cities": [
+      "Ravensthorpe",
+      "Wagin",
+      "Roebourne",
+      "Pannawonica",
+      "Tom Price"
+    ],
+    "country": "Australia",
+    "timezone": "Australia/Perth"
+  },
+  {
+    "cities": [
+      "Central Coast",
+      "Bourke",
+      "Queanbeyan",
+      "Tweed Heads",
+      "Ivanhoe"
+    ],
+    "country": "Australia",
+    "timezone": "Australia/Sydney"
+  },
+  {
+    "cities": ["Assen", "Arnhem", "Maastricht", "Zwolle", "Middelburg"],
+    "country": "Netherlands",
+    "timezone": "Europe/Amsterdam"
+  },
+  { "cities": ["Andorra"], "country": "Andorra", "timezone": "Europe/Andorra" },
+  {
+    "cities": ["Akhtubinsk", "Astrakhan"],
+    "country": "Russia",
+    "timezone": "Europe/Astrakhan"
+  },
+  {
+    "cities": ["Lamia", "Polygyros", "Komatini", "Piraiévs", "Volos"],
+    "country": "Greece",
+    "timezone": "Europe/Athens"
+  },
+  {
+    "cities": ["Prizren", "Pec", "Pristina"],
+    "country": "Kosovo",
+    "timezone": "Europe/Belgrade"
+  },
+  {
+    "cities": ["Subotica", "Kragujevac"],
+    "country": "Serbia",
+    "timezone": "Europe/Belgrade"
+  },
+  { "cities": ["Passau"], "country": "Austria", "timezone": "Europe/Berlin" },
+  {
+    "cities": ["Mainz", "Schwerin", "Bielefeld", "Dortmund"],
+    "country": "Germany",
+    "timezone": "Europe/Berlin"
+  },
+  {
+    "cities": ["Banska Bystrica", "Trnava", "Zvolen", "Zilina", "Kosice"],
+    "country": "Slovakia",
+    "timezone": "Europe/Bratislava"
+  },
+  {
+    "cities": ["Mons", "Hasselt", "Arlon", "Gent", "Liege"],
+    "country": "Belgium",
+    "timezone": "Europe/Brussels"
+  },
+  {
+    "cities": ["Targu Jiu", "Slatina", "Alexandria", "Targoviste", "Giurgiu"],
+    "country": "Romania",
+    "timezone": "Europe/Bucharest"
+  },
+  {
+    "cities": [
+      "Veszprem",
+      "Zalaegerszeg",
+      "Tatabanya",
+      "Szekszard",
+      "Salgotarjan"
+    ],
+    "country": "Hungary",
+    "timezone": "Europe/Budapest"
+  },
+  {
+    "cities": ["Dubasari", "Balti", "Cahul", "Tiraspol", "Chisinau"],
+    "country": "Moldova",
+    "timezone": "Europe/Chisinau"
+  },
+  {
+    "cities": ["Vejle", "Hillerod", "Soro", "Viborg", "Roskilde"],
+    "country": "Denmark",
+    "timezone": "Europe/Copenhagen"
+  },
+  {
+    "cities": ["Ros Comain", "Muineachan", "Shannon", "Waterford", "Tralee"],
+    "country": "Ireland",
+    "timezone": "Europe/Dublin"
+  },
+  {
+    "cities": ["Gibraltar"],
+    "country": "Gibraltar",
+    "timezone": "Europe/Gibraltar"
+  },
+  {
+    "cities": ["Hameenlinna", "Kouvola", "Mikkeli", "Savonlinna", "Pori"],
+    "country": "Finland",
+    "timezone": "Europe/Helsinki"
+  },
+  {
+    "cities": ["Douglas"],
+    "country": "Isle of Man",
+    "timezone": "Europe/Isle_of_Man"
+  },
+  {
+    "cities": ["Kirklareli", "Bilecik", "Sakarya", "Kastamonu", "Burdur"],
+    "country": "Turkey",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "cities": ["Chernyakhovsk", "Sovetsk", "Kaliningrad"],
+    "country": "Russia",
+    "timezone": "Europe/Kaliningrad"
+  },
+  {
+    "cities": [
+      "Kirovo-Chepetsk",
+      "Sovetsk",
+      "Slobodskoy",
+      "Kirs",
+      "Omutninsk",
+      "Kirov"
+    ],
+    "country": "Russia",
+    "timezone": "Europe/Kirov"
+  },
+  {
+    "cities": [
+      "Mykolayiv",
+      "Chernihiv",
+      "Khmelnytskyy",
+      "Kamyanets-Podilskyy",
+      "Drohobych"
+    ],
+    "country": "Ukraine",
+    "timezone": "Europe/Kyiv"
+  },
+  {
+    "cities": ["Aveiro", "Leiria", "Viana Do Castelo", "Beja", "Evora"],
+    "country": "Portugal",
+    "timezone": "Europe/Lisbon"
+  },
+  {
+    "cities": ["Maribor", "Ljubljana"],
+    "country": "Slovenia",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "cities": [
+      "Greenock",
+      "Sunderland",
+      "Southampton",
+      "Bristol",
+      "Bournemouth"
+    ],
+    "country": "United Kingdom",
+    "timezone": "Europe/London"
+  },
+  {
+    "cities": ["Diekirch", "Grevenmacher", "Luxembourg"],
+    "country": "Luxembourg",
+    "timezone": "Europe/Luxembourg"
+  },
+  {
+    "cities": ["Merida", "Marbella", "Linares", "Algeciras", "Leon"],
+    "country": "Spain",
+    "timezone": "Europe/Madrid"
+  },
+  { "cities": ["Valletta"], "country": "Malta", "timezone": "Europe/Malta" },
+  {
+    "cities": ["Mariehamn"],
+    "country": "Aland",
+    "timezone": "Europe/Mariehamn"
+  },
+  {
+    "cities": ["Baranavichy", "Polatsk", "Maladzyechna", "Pinsk", "Mazyr"],
+    "country": "Belarus",
+    "timezone": "Europe/Minsk"
+  },
+  {
+    "cities": [
+      "Moscow",
+      "Nazran",
+      "Maykop",
+      "Mozdok",
+      "Georgievsk",
+      "Pyatigorsk"
+    ],
+    "country": "Russia",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "cities": ["Arendal", "Vossavangen", "Leikanger", "Bærum", "Hamar"],
+    "country": "Norway",
+    "timezone": "Europe/Oslo"
+  },
+  {
+    "cities": ["Annecy", "Roanne", "St.-Brieuc", "Poitier", "Angers"],
+    "country": "France",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "cities": ["Podgorica"],
+    "country": "Montenegro",
+    "timezone": "Europe/Podgorica"
+  },
+  {
+    "cities": [
+      "Usti Nad Labem",
+      "Hradec Kralove",
+      "Ceske Budejovice",
+      "Liberec",
+      "Olomouc"
+    ],
+    "country": "Czech Republic",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "cities": ["Rezekne", "Ventspils", "Jelgava", "Liepaga", "Daugavpils"],
+    "country": "Latvia",
+    "timezone": "Europe/Riga"
+  },
+  {
+    "cities": ["Potenza", "Campobasso", "Aosta", "Modena", "Crotone"],
+    "country": "Italy",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "cities": [
+      "Chapayevsk",
+      "Syzran",
+      "Novokuybishevsk",
+      "Sarapul",
+      "Mozhga",
+      "Samara"
+    ],
+    "country": "Russia",
+    "timezone": "Europe/Samara"
+  },
+  {
+    "cities": ["San Marino"],
+    "country": "San Marino",
+    "timezone": "Europe/San_Marino"
+  },
+  {
+    "cities": ["Zenica", "Mostar", "Tuzla", "Prijedor", "Banja Luka"],
+    "country": "Bosnia and Herzegovina",
+    "timezone": "Europe/Sarajevo"
+  },
+  {
+    "cities": ["Engels", "Pugachev", "Volsk", "Atkarsk", "Balashov", "Saratov"],
+    "country": "Russia",
+    "timezone": "Europe/Saratov"
+  },
+  {
+    "cities": ["Dzhankoy", "Yevpatoriya", "Kerch", "Simferopol", "Yalta"],
+    "country": "Ukraine",
+    "timezone": "Europe/Simferopol"
+  },
+  {
+    "cities": ["Tetovo", "Bitola", "Skopje"],
+    "country": "Macedonia",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "cities": ["Lovec", "Montana", "Razgrad", "Sliven", "Plovdiv"],
+    "country": "Bulgaria",
+    "timezone": "Europe/Sofia"
+  },
+  {
+    "cities": ["Falun", "Nykoping", "Harnosand", "Karlskrona", "Mariestad"],
+    "country": "Sweden",
+    "timezone": "Europe/Stockholm"
+  },
+  {
+    "cities": ["Haapsalu", "Viljandi", "Kohtla-Jarve", "Narva", "Tartu"],
+    "country": "Estonia",
+    "timezone": "Europe/Tallinn"
+  },
+  {
+    "cities": ["Kruje", "Fier", "Lushnje", "Puke", "Bajram Curri"],
+    "country": "Albania",
+    "timezone": "Europe/Tirane"
+  },
+  {
+    "cities": ["Dimitrovgrad", "Ulyanovsk"],
+    "country": "Russia",
+    "timezone": "Europe/Ulyanovsk"
+  },
+  {
+    "cities": ["Uzhgorod"],
+    "country": "Ukraine",
+    "timezone": "Europe/Uzhgorod"
+  },
+  {
+    "cities": ["Vaduz"],
+    "country": "Liechtenstein",
+    "timezone": "Europe/Vaduz"
+  },
+  {
+    "cities": [
+      "Bregenz",
+      "Eisenstadt",
+      "Wiener Neustadt",
+      "Graz",
+      "Klagenfurt"
+    ],
+    "country": "Austria",
+    "timezone": "Europe/Vienna"
+  },
+  {
+    "cities": ["Panevežys", "Siauliai", "Klaipeda", "Kaunas", "Vilnius"],
+    "country": "Lithuania",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "cities": [
+      "Nikolayevsk",
+      "Kamyshin",
+      "Pallasovka",
+      "Frolovo",
+      "Volzhskiy",
+      "Volgograd"
+    ],
+    "country": "Russia",
+    "timezone": "Europe/Volgograd"
+  },
+  {
+    "cities": ["Olsztyn", "Elblag", "Inowroclaw", "Bytom", "Opole"],
+    "country": "Poland",
+    "timezone": "Europe/Warsaw"
+  },
+  {
+    "cities": ["Sibenik", "Karlovac", "Rijeka", "Slavonski Brod", "Dubrovnik"],
+    "country": "Croatia",
+    "timezone": "Europe/Zagreb"
+  },
+  {
+    "cities": ["Berdyansk", "Melitopol", "Zaporizhzhya"],
+    "country": "Ukraine",
+    "timezone": "Europe/Zaporozhye"
+  },
+  {
+    "cities": ["Delemont", "Neuchatel", "Aarau", "Stans", "Sion"],
+    "country": "Switzerland",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "cities": ["Sambava", "Ambanja", "Ihosy", "Mandritsara", "Besalampy"],
+    "country": "Madagascar",
+    "timezone": "Indian/Antananarivo"
+  },
+  { "cities": ["Moroni"], "country": "Comoros", "timezone": "Indian/Comoro" },
+  {
+    "cities": ["Victoria"],
+    "country": "Seychelles",
+    "timezone": "Indian/Mahe"
+  },
+  { "cities": ["Male"], "country": "Maldives", "timezone": "Indian/Maldives" },
+  {
+    "cities": ["Curepipe", "Port Louis"],
+    "country": "Mauritius",
+    "timezone": "Indian/Mauritius"
+  },
+  { "cities": ["Dzaoudzi"], "country": "France", "timezone": "Indian/Mayotte" },
+  {
+    "cities": ["St.-Benoit", "St.-Denis"],
+    "country": "France",
+    "timezone": "Indian/Reunion"
+  },
+  { "cities": ["Apia"], "country": "Samoa", "timezone": "Pacific/Apia" },
+  {
+    "cities": ["Greymouth", "Upper Hutt", "Masterton", "Levin", "Waitakere"],
+    "country": "New Zealand",
+    "timezone": "Pacific/Auckland"
+  },
+  {
+    "cities": ["Arawa", "Sohano", "Kieta"],
+    "country": "Papua New Guinea",
+    "timezone": "Pacific/Bougainville"
+  },
+  {
+    "cities": ["Luganville", "Port Vila"],
+    "country": "Vanuatu",
+    "timezone": "Pacific/Efate"
+  },
+  {
+    "cities": ["Nandi", "Lautoka", "Labasa", "Suva"],
+    "country": "Fiji",
+    "timezone": "Pacific/Fiji"
+  },
+  {
+    "cities": ["Funafuti"],
+    "country": "Tuvalu",
+    "timezone": "Pacific/Funafuti"
+  },
+  {
+    "cities": ["Puerto Villamil", "Puerto Baquerizo Moreno", "Santa Cruz"],
+    "country": "Ecuador",
+    "timezone": "Pacific/Galapagos"
+  },
+  {
+    "cities": ["Gizo", "Lata", "Honiara"],
+    "country": "Solomon Islands",
+    "timezone": "Pacific/Guadalcanal"
+  },
+  { "cities": ["Agana"], "country": "Guam", "timezone": "Pacific/Guam" },
+  {
+    "cities": ["Lihue", "Wahiawa", "Wailuku", "Kailua-Kona", "Hilo"],
+    "country": "United States of America",
+    "timezone": "Pacific/Honolulu"
+  },
+  {
+    "cities": ["Majuro"],
+    "country": "Marshall Islands",
+    "timezone": "Pacific/Majuro"
+  },
+  {
+    "cities": ["Noumea"],
+    "country": "New Caledonia",
+    "timezone": "Pacific/Noumea"
+  },
+  {
+    "cities": ["Pago Pago"],
+    "country": "American Samoa",
+    "timezone": "Pacific/Pago_Pago"
+  },
+  {
+    "cities": ["Koror", "Melekeok"],
+    "country": "Palau",
+    "timezone": "Pacific/Palau"
+  },
+  {
+    "cities": ["Palikir"],
+    "country": "Federated States of Micronesia",
+    "timezone": "Pacific/Pohnpei"
+  },
+  {
+    "cities": ["Wabag", "Vanimo", "Kundiawa", "Kerema", "Lorengau"],
+    "country": "Papua New Guinea",
+    "timezone": "Pacific/Port_Moresby"
+  },
+  {
+    "cities": ["Rarotonga"],
+    "country": "Cook Islands",
+    "timezone": "Pacific/Rarotonga"
+  },
+  {
+    "cities": ["Capitol Hill"],
+    "country": "Northern Mariana Islands",
+    "timezone": "Pacific/Saipan"
+  },
+  {
+    "cities": ["Papeete"],
+    "country": "French Polynesia",
+    "timezone": "Pacific/Tahiti"
+  },
+  { "cities": ["Tarawa"], "country": "Kiribati", "timezone": "Pacific/Tarawa" },
+  {
+    "cities": ["Neiafu", "Nukualofa"],
+    "country": "Tonga",
+    "timezone": "Pacific/Tongatapu"
+  }
+]

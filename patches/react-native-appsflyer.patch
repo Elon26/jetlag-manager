@@ -1,0 +1,56 @@
+diff --git a/ios/PCAppsFlyer.m b/ios/PCAppsFlyer.m
+index 389726bf92906f71458ecda24d7d5189b127cda4..3c3769e8fed39a3da6876f76f931492b58dae719 100644
+--- a/ios/PCAppsFlyer.m
++++ b/ios/PCAppsFlyer.m
+@@ -7,7 +7,7 @@
+ 
+ #if __has_include(<PurchaseConnector/PurchaseConnector.h>)
+ #import <PurchaseConnector/PurchaseConnector.h>
+-#import <react_native_appsflyer-Swift.h>
++#import <react_native_appsflyer/react_native_appsflyer-Swift.h>
+ 
+ @implementation PCAppsFlyer
+ @synthesize bridge = _bridge;
+@@ -43,7 +43,7 @@ @implementation PCAppsFlyer
+     BOOL logSubscriptions = [config[logSubscriptionsKey] boolValue];
+     BOOL logInApps = [config[logInAppsKey] boolValue];
+     BOOL sandbox = [config[sandboxKey] boolValue];
+-    NSString *storeKitVersion = config[storeKitKey]; 
++    NSString *storeKitVersion = config[storeKitKey];
+ 
+     [connector setIsSandbox:sandbox];
+ 
+@@ -55,7 +55,7 @@ @implementation PCAppsFlyer
+         [connector setStoreKitVersion:AFSDKStoreKitVersionSK1];
+         NSLog(@"%@Configure PurchaseConnector with StoreKit1 Version", TAG);
+     }
+-    
++
+     if (logSubscriptions && logInApps) {
+     [connector setAutoLogPurchaseRevenue:AFSDKAutoLogPurchaseRevenueOptionsAutoRenewableSubscriptions | AFSDKAutoLogPurchaseRevenueOptionsInAppPurchases];
+     }
+@@ -74,7 +74,7 @@ @implementation PCAppsFlyer
+                   resolver:(RCTPromiseResolveBlock)resolve
+                   rejecter:(RCTPromiseRejectBlock)reject) {
+     NSLog(@"Logging consumable transaction with ID: %@", transactionId);
+-    
++
+     if (connector == nil) {
+         reject(connectorNotConfiguredMessage, connectorNotConfiguredMessage, nil);
+         return;
+@@ -146,13 +146,13 @@ @implementation PCAppsFlyer
+ }
+ 
+ // Delegate method for StoreKit1
+-- (NSDictionary *)purchaseRevenueAdditionalParametersForProducts:(NSSet<SKProduct *> *)products 
++- (NSDictionary *)purchaseRevenueAdditionalParametersForProducts:(NSSet<SKProduct *> *)products
+                                                    transactions:(NSSet<SKPaymentTransaction *> *)transactions {
+     return self.purchaseRevenueParams;
+ }
+ 
+ // Delegate method for StoreKit2
+-- (NSDictionary<NSString *, id> *)purchaseRevenueAdditionalParametersStoreKit2ForProducts:(NSSet<AFSDKProductSK2 *> *)products 
++- (NSDictionary<NSString *, id> *)purchaseRevenueAdditionalParametersStoreKit2ForProducts:(NSSet<AFSDKProductSK2 *> *)products
+                                                            transactions:(NSSet<AFSDKTransactionSK2 *> *)transactions {
+     return self.purchaseRevenueStoreKit2Params;
+ }

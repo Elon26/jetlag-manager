@@ -1,0 +1,15 @@
+{
+  "platforms": [
+    "apple"
+  ],
+  "apple": {
+    "modules": [
+      "TimeZoneModule"
+    ]
+  },
+  "android": {
+    "modules": [
+      "expo.modules.timezone.TimeZoneModule"
+    ]
+  }
+}

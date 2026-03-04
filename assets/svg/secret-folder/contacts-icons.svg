@@ -1,0 +1,34 @@
+<svg width="130" height="119" viewBox="0 0 130 119" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_602_4409)">
+<rect width="130" height="119" rx="10" fill="#F2F3F3" fill-opacity="0.26"/>
+<g opacity="0.1">
+<rect x="10" y="2.5" width="110" height="20" rx="10" fill="#2F3138"/>
+</g>
+<g opacity="0.1">
+<path d="M10 40C10 35.8579 13.3579 32.5 17.5 32.5H90.5C94.6421 32.5 98 35.8579 98 40C98 44.1421 94.6421 47.5 90.5 47.5H17.5C13.3579 47.5 10 44.1421 10 40Z" fill="#3870FF"/>
+</g>
+<g opacity="0.02">
+<rect x="106" y="32.5" width="14" height="15" rx="7" fill="#2F3138"/>
+</g>
+<g opacity="0.05">
+<rect x="10" y="55.5" width="110" height="15" rx="7.5" fill="#2F3138"/>
+</g>
+<g opacity="0.05">
+<rect x="10" y="78.5" width="40" height="15" rx="7.5" fill="#2F3138"/>
+</g>
+<g opacity="0.02">
+<rect x="60" y="78.5" width="40" height="15" rx="7.5" fill="#2F3138"/>
+</g>
+<g opacity="0.05">
+<rect x="110" y="78.5" width="40" height="15" rx="7.5" fill="#2F3138"/>
+</g>
+<g opacity="0.05">
+<rect x="10" y="101.5" width="66" height="15" rx="7.5" fill="#2F3138"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_602_4409">
+<rect width="130" height="119" rx="10" fill="white"/>
+</clipPath>
+</defs>
+</svg>

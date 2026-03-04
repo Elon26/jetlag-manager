@@ -1,0 +1,19 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_i_2242_16526)">
+<path d="M3.46447 3.46447C4.92893 2 7.28595 2 12 2C16.714 2 19.0711 2 20.5355 3.46447C22 4.92893 22 7.28595 22 12C22 16.714 22 19.0711 20.5355 20.5355C19.0711 22 16.714 22 12 22C7.28595 22 4.92893 22 3.46447 20.5355C2 19.0711 2 16.714 2 12C2 7.28595 2 4.92893 3.46447 3.46447Z" fill="white" fill-opacity="0.85"/>
+</g>
+<path d="M14.3155 7.5H9.68097C9.10254 7.5 8.5478 7.72978 8.13879 8.13879C7.72978 8.5478 7.5 9.10254 7.5 9.68097V14.3155C7.5 14.894 7.72978 15.4487 8.13879 15.8577C8.5478 16.2667 9.10254 16.4965 9.68097 16.4965H13.4121C13.6986 16.4965 13.9822 16.4401 14.2469 16.3305C14.5116 16.2208 14.752 16.0601 14.9546 15.8575L15.8575 14.9546C16.0601 14.752 16.2208 14.5116 16.3305 14.2469C16.4401 13.9822 16.4965 13.6986 16.4965 13.4121V9.68097C16.4965 9.10254 16.2667 8.5478 15.8577 8.13879C15.4487 7.72978 14.894 7.5 14.3155 7.5Z" stroke="#4074FB" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M16.4991 12.9551H14.5908C14.157 12.9551 13.7409 13.1274 13.4341 13.4341C13.1274 13.7409 12.9551 14.157 12.9551 14.5908V16.4991M9.68359 9.68359H13.7729M9.68359 11.8646H12.4098" stroke="#4074FB" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+<defs>
+<filter id="filter0_i_2242_16526" x="1" y="1" width="21" height="21" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="-1" dy="-1"/>
+<feGaussianBlur stdDeviation="2.5"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow_2242_16526"/>
+</filter>
+</defs>
+</svg>

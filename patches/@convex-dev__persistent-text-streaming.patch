@@ -1,0 +1,22 @@
+diff --git a/dist/commonjs/react/index.js b/dist/commonjs/react/index.js
+index f999fcd982332a66e0bca732b4d42b9841596683..e9c6f0bcb585125508c5535ffe4be2788eb29113 100644
+--- a/dist/commonjs/react/index.js
++++ b/dist/commonjs/react/index.js
+@@ -1,6 +1,8 @@
+ "use client";
+ import { useQuery } from "convex/react";
+ import { useEffect, useMemo, useRef, useState } from "react";
++import { fetch as expoFetch } from "expo/fetch";
++
+ if (typeof window === "undefined") {
+     throw new Error("this is frontend code, but it's running somewhere else!");
+ }
+@@ -97,7 +99,7 @@ export function useStream(getPersistentBody, streamUrl, driven, streamId, opts)
+  * or finished, etc.
+  */
+ async function startStreaming(url, streamId, onUpdate, headers) {
+-    const response = await fetch(url, {
++    const response = await expoFetch(url.toString(), {
+         method: "POST",
+         body: JSON.stringify({
+             streamId: streamId,

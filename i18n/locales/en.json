@@ -1,0 +1,547 @@
+{
+  "basic": {
+    "create": "create",
+    "delete": "delete",
+    "edit": "edit",
+    "save": "save",
+    "select": "select",
+    "test": "test"
+  },
+  "timezone": {
+    "add": "Add",
+    "add-event-short": "Add Event",
+    "add-event-long": "Add an event for this week",
+    "add-note": "Add note",
+    "add-meeting": "Add meeting",
+    "add-member": "Add member",
+    "add-notion": "Add notion",
+    "add-some-note": "Add some note",
+    "add-task": "Add task",
+    "add-task-point": "Add task point",
+    "be-productive": "BE PRODUCTIVE",
+    "by-add-date": "By add date",
+    "by-change-date": "By change date",
+    "by-time": "By time",
+    "by-type": "By type",
+    "cancel": "Cancel",
+    "close": "Close",
+    "color": "Color",
+    "country-name": "Country name",
+    "date": "Date",
+    "description": "Description",
+    "edit-note": "Edit note",
+    "edit-meeting": "Edit meeting",
+    "edit-notion": "Edit notion",
+    "edit-task": "Edit task",
+    "end-time": "End time",
+    "enter-member-name": "Enter member name",
+    "enter-point": "Enter the point",
+    "events_zero": "0 events",
+    "events_one": "{{count, number}} event",
+    "events_other": "{{count, number}} events",
+    "events-upcoming_zero": "0 upcoming events",
+    "events-upcoming_one": "{{count, number}} upcoming event",
+    "events-upcoming_other": "{{count, number}} upcoming events",
+    "from-a-to-z": "From A to Z",
+    "from-z-to-a": "From Z to A",
+    "gmt": "GMT",
+    "h": "H",
+    "later": "Later",
+    "meeting": "Meeting",
+    "meeting-name": "Meeting name",
+    "no-date": "No date",
+    "no-timezones": "No time zones found",
+    "note": "Note",
+    "note-name": "Note name",
+    "notion": "Notion",
+    "notion-name": "Notion name",
+    "members": "Members",
+    "more-than-ten": "You cannot have more than 10 time zones",
+    "open-all": "Open All",
+    "past": "Past",
+    "priority": "Priority",
+    "search": "Search",
+    "select-color": "Select the color for",
+    "select-country": "Select the country",
+    "select-note-type": "Select type of your note",
+    "start-time": "Start time",
+    "task": "Task",
+    "task-name": "Task name",
+    "this-month": "This month",
+    "time": "Time",
+    "today": "Today",
+    "tomorrow": "Tomorrow",
+    "time-management": "Time Management",
+    "you-have-scheduled-task": "You have scheduled a task",
+    "weekdays": {
+      "monday": "Mon",
+      "tuesday": "Tue",
+      "wednesday": "Wed",
+      "thursday": "Thu",
+      "friday": "Fri",
+      "saturday": "Sat",
+      "sunday": "Sun"
+    }
+  },
+  "cleaner": {
+    "widget": {
+      "title": "Find duplicate files on your device",
+      "scan-button": "Tap to scan",
+      "processing": "Processing...",
+      "scanning": "Scanning...",
+      "needs-boost": "You need to boost your device",
+      "boost-button": "Tap to boost",
+      "no-boost-needed": "You don’t need to boost your device",
+      "access": "Tap to access",
+      "start-smart-clean": "START SMART CLEAN",
+      "processing...": "PROCESSING..."
+    },
+    "common": {
+      "zero-mb": "0 mb"
+    },
+    "gallery-organiser": {
+      "widget": {
+        "title": "Gallery Organiser"
+      },
+      "title": "Gallery Organiser",
+      "description": "Select groups to fast delete junk files",
+      "permission-alert": "Access to Photo Library required to clean up your photos.",
+      "categories": {
+        "similar-photos": "Similar Photos",
+        "screenshots": "Screenshots",
+        "blurry-photos": "Blurry Photos",
+        "selfie": "Selfie",
+        "live-photos": "Live Photos"
+      },
+      "optimize": {
+        "title": "Need optimize",
+        "used-percentage": {
+          "part1": "You have",
+          "part2": "used"
+        }
+      },
+      "clean-button": "Start Compact",
+      "clean-error": {
+        "user-denied": "User denied deletion"
+      },
+      "clean-success": {
+        "files": "files",
+        "message_1": "take up",
+        "message_2": "of space"
+      }
+    },
+    "contacts-organiser": {
+      "widget": {
+        "title": "Contacts Organiser"
+      },
+      "permission-alert": "Access to contacts is required to use this feature.",
+      "check-all": "Check all",
+      "merge-button": "Merge",
+
+      "tabs": {
+        "duplicate-names": "Duplicate names",
+        "duplicate-numbers": "Duplicate numbers"
+      },
+      "merge-contacts": {
+        "title": "Merge contacts",
+        "action": "Merge",
+        "description": "Merge {{total}} contacts into {{groups}} {{contactWord}}?"
+      },
+      "delete-contacts": {
+        "title": "Delete contacts",
+        "action_one": "Delete {{count}} contact",
+        "action_other": "Delete {{count}} contacts",
+        "message_one": "Are you sure you want to delete {{count}} contact?",
+        "message_other": "Are you sure you want to delete {{count}} contacts?"
+      },
+      "merge-success": {
+        "contact_one": "contact",
+        "contact_other": "contacts",
+        "message": "successfully merged"
+      },
+      "delete-success": {
+        "files": "files",
+        "take-up": "take up",
+        "item_one": "item",
+        "item_other": "items"
+      }
+    },
+    "notifications": {
+      "no-cleaning": {
+        "title": "No cleaning",
+        "description": "Cleaning has not performed yet"
+      },
+      "all-right": {
+        "title": "All right",
+        "description": "Cleaning was successful"
+      }
+    },
+    "storage-usage": {
+      "title": {
+        "part1": "Storage is",
+        "part2": "full"
+      },
+      "subtitle": "{{usedGb}} Gb of {{totalGb}} Gb"
+    },
+    "gallery-album": {
+      "default-title": "Gallery",
+      "videos": "Videos",
+      "empty-state": "Nothing to clean here.",
+      "continue-button": "Continue",
+      "files-count": "{{count}} files",
+      "similar-photos-count": "Similar photos: {{count}}",
+      "select-all-group": "Select all",
+      "clean-success": {
+        "message_1": "You've cleaned",
+        "message_2": "take up",
+        "some": "some",
+        "file_one": "file",
+        "file_other": "files"
+      }
+    },
+    "delete": "Delete"
+  },
+  "secret-folder": {
+    "widget": {
+      "title": "Secret Folder"
+    },
+    "autofill": {
+      "step": "Step {{number, number}}",
+      "go-to-settings": "Go to your phone Settings",
+      "tap-passwords-accounts": "Tap Passwords & Accounts",
+      "passwords": "Passwords",
+      "tap-password-options": "Tap Password Options",
+      "password-options": "Password Options",
+      "enable-autofill": "Enable AutoFill Passwords",
+      "autofill-passwords": "AutoFill Passwords",
+      "select-app": "Select {{appName}}"
+    },
+    "not-protected": {
+      "title": "Your Secret folder is not protected!",
+      "description": "Add FaceID and PIN-code authentication to protect the privacy of your data.",
+      "action": "Add protection"
+    },
+    "protected": {
+      "title": "Your Secret folder protected!",
+      "description": "The privacy of your data has been confirmed"
+    },
+    "modal": {
+      "title": "Protect Secret Folder",
+      "description": "Private Locker offers a robust and encrypted storage solution directly on your device. With a secure passcode, you can ensure that your sensitive files remain protected and out of reach from unauthorized users.",
+      "action-add": "Add Protection",
+      "action-later": "Later",
+      "save": "Save",
+      "сontinue": "Continue"
+    },
+    "gallery": {
+      "title": "Gallery",
+      "photos": "photos",
+      "empty-state": "Add your photo",
+      "add-photo-button": "Add photo",
+      "delete-after-import": {
+        "title": "Remove After Import?",
+        "description": "Imported files will be deleted from Photos"
+      },
+      "confirm-delete": {
+        "title": "Do you really want to delete?",
+        "description": "Deleted files are gone for good\nand can't be brought back"
+      },
+      "context-menu": {
+        "open": "Open",
+        "share": "Share"
+      },
+      "select": "Select",
+      "select-all": "Select all",
+      "unselect-all": "Unselect all"
+    },
+    "contacts": {
+      "title": "Phonebook",
+      "contacts": "contacts",
+      "add-contact-button": "Add contact",
+      "remove-after-import": {
+        "title": "Remove After Import?",
+        "description": "Do you want to remove the contacts from address book after importing them?"
+      },
+      "confirm-delete": {
+        "title": "Do you really want to delete?",
+        "description": "Deleted files are gone for good\nand can't be brought back"
+      },
+      "select": "Select",
+      "select-all": "Select all",
+      "unselect-all": "Unselect all"
+    },
+    "passwords": {
+      "title": "My passwords",
+      "autofill-guide": "AutoFill guide",
+      "add-passwords": "Add passwords",
+      "passwords": "passwords",
+      "empty-state": "Add your password",
+      "add-password-button": "Add password",
+      "delete-single": {
+        "title": "Delete password?",
+        "description": "This password will be deleted from your device."
+      },
+      "delete-multiple": {
+        "title": "Delete this password from device?",
+        "description": "This password will be deleted from your device."
+      },
+      "select": "Select",
+      "select-all": "Select all",
+      "unselect-all": "Unselect all"
+    },
+    "auth": {
+      "delete": "Delete",
+      "messages": {
+        "create": "Create new access code",
+        "confirm": "Confirm access code",
+        "set": "Secret Folder protected",
+        "nomatch": "Access code do not match",
+        "check": "Enter the access code",
+        "correct": "Access code is correct",
+        "incorrect": "Incorrect access code",
+        "reset": "Enter the access code",
+        "isreset": "Access code removed"
+      }
+    }
+  },
+  "rate-modal": {
+    "title": "Tap a Star, Make our day",
+    "description": "Every review helps us grow - and we'd love to hear from You!",
+    "continue-button": "Continue"
+  },
+  "speed-test": {
+    "widget": {
+      "title": "Speed Test"
+    },
+    "ping": "Ping",
+    "ms": "Ms",
+    "download": "Download",
+    "upload": "Upload",
+    "mbs": "Mbs",
+    "testing": "Testing...",
+    "start-test": "Start test",
+    "test-again": "Test again",
+    "quality": {
+      "title": "Internet quality is",
+      "good": "Good",
+      "average": "Average",
+      "bad": "Bad"
+    },
+    "modal": {
+      "title": "Make sure you are connected to the Internet",
+      "description": "Internet connection error, try again",
+      "retry": "Retry",
+      "back": "Back"
+    }
+  },
+
+  "about": {
+    "system-info": {
+      "title": "System Info",
+      "battery": "Battery",
+      "remaining-time": "Remaining time"
+    },
+    "settings": {
+      "title": "About",
+      "private-locker": "Private Locker Settings",
+      "contact-us": "Contact Us",
+      "license-agreement": "License Agreement",
+      "privacy-policy": "Privacy Policy",
+      "terms-of-use": "Terms of Use",
+      "rate-us": "Rate Us"
+    }
+  },
+  "system-info": {
+    "storage": {
+      "title": "Storage",
+      "free": "Free Storage",
+      "total": "Total Storage"
+    },
+    "ram": {
+      "title": "Ram",
+      "free": "Free Ram",
+      "total": "Total Ram"
+    },
+    "battery": {
+      "title": "Battery",
+      "remaining-time": "Remaining time"
+    },
+    "device": {
+      "name": "Name",
+      "ios-version": "Version iOS",
+      "device-id": "Device",
+      "build-number": "Build number",
+      "active-time": "Active time"
+    },
+    "network": {
+      "connection": "Connection",
+      "ip-address": "IP",
+      "upload-speed": "Upload Speed Test",
+      "download-speed": "Download Speed Test",
+      "megabits-per-second": "Mb/s"
+    }
+  },
+  "paywall": {
+    "header": {
+      "restore": {
+        "button": "Restore purchases",
+        "success": {
+          "title": "Success",
+          "message": "Your purchases have been restored successfully."
+        },
+        "no-purchases": {
+          "title": "No Purchases",
+          "message": "No previous purchases found to restore."
+        },
+        "error": {
+          "title": "Error",
+          "message": "Failed to restore purchases. Please try again later."
+        }
+      }
+    },
+    "pw1": {
+      "title": "Unlock all features & supercharge your phone today",
+      "whats-included": "What’s included in",
+      "pro": "PRO",
+      "cancel-anytime": "Cancel anytime",
+      "subscribe-with-trial": "{{trial}} free, then {{price}}/{{period}}",
+      "subscribe-without-trial": "{{price}}/{{period}}",
+      "discount-percentage": "{{percentage}}% OFF",
+      "feature-separator": " – ",
+      "features": {
+        "time-zone": {
+          "title": "Time zone",
+          "description": "Track world time zones with ease and clarity."
+        },
+        "note": {
+          "title": "Note",
+          "description": "Unlock unlimited notes and keep everything organized."
+        },
+        "calendar": {
+          "title": "Calendar",
+          "description": "Plan your days with unlimited events."
+        },
+        "gallery-boost": {
+          "title": "Boost your gallery",
+          "description": "Free up space in seconds."
+        },
+        "contacts-management": {
+          "title": "Smart contacts management",
+          "description": "Keep your phonebook clean."
+        }
+      }
+    },
+    "pw2": {
+      "title": "Unlock all features & supercharge your phone today",
+      "cancel-anytime": "Cancel anytime",
+      "subscribe-with-trial": "{{trial}} free, then {{price}}/{{period}}",
+      "subscribe-without-trial": "{{price}}/{{period}}",
+      "discount-percentage": "{{percentage}}% OFF",
+      "feature-separator": " – ",
+      "features": {
+        "time-zone": {
+          "title": "Time zone",
+          "description": "Track world time zones with ease and clarity."
+        },
+        "note": {
+          "title": "Note",
+          "description": "Unlock unlimited notes and keep everything organized."
+        },
+        "calendar": {
+          "title": "Calendar",
+          "description": "Plan your days with unlimited events."
+        },
+        "gallery-boost": {
+          "title": "Boost your gallery",
+          "description": "Free up space in seconds."
+        },
+        "contacts-management": {
+          "title": "Smart contacts management",
+          "description": "Keep your phonebook clean."
+        }
+      }
+    },
+    "pw3": {
+      "title": "Unlock all features & supercharge your phone today",
+      "subscribe-with-trial-button": "Start free trial",
+      "subscribe-without-trial-button": "{{price}}/{{period}}",
+      "description-with-trial": "Enjoy {{trial}} to free, then just {{price}} per {{period}}",
+      "storage-percentage": "78%",
+      "storage-used": "from 100% Used",
+      "no-upfront-payment": "No upfront payment",
+      "cancel-anytime": "Cancel anytime"
+    }
+  },
+  "onboarding": {
+    "a": {
+      "slide0": {
+        "title": "Synclear",
+        "description": "Smart cleaning for more space and better performance",
+        "gallery-cleaner-title": "Gallery Cleaner",
+        "gallery-cleaner-subtitle": "Gallery Cleaner",
+        "gallery-cleaner-description": "Select groups to fast delete junk files",
+        "feature-similar-photos": "Similar photos",
+        "feature-screenshots": "Screenshots",
+        "feature-blurry-photos": "Blurry photos",
+        "feature-selfie": "Selfie",
+        "feature-live-photos": "Live Photos"
+      },
+      "slide1": {
+        "title": "Manage Your Day Anywhere",
+        "description": "Plan tasks and events across different time zones",
+        "task1-location": "Mumbai, India",
+        "task1-title": "Design proposition",
+        "task1-description": "DoneUt sodales, ex sit amet consectetur accumsan, nibh e...",
+        "task2-location": "Mumbai, India",
+        "task2-title": "Task for Study",
+        "task2-description": "Lusce volutpat lectus et nisl consectetur finibus. In vitae sc...",
+        "task3-location": "Mumbai, India",
+        "task3-title": "Work meeting",
+        "task3-description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed...",
+        "task4-location": "Mumbai, India",
+        "task4-title": "Tokyo visit tip",
+        "task4-description": "DoneUt sodales, ex sit amet consectetur accumsan, nibh e..."
+      },
+      "slide2": {
+        "title": "Plan Your Day Smarter",
+        "description": "Manage events and tasks with built-in time zone tracking.",
+        "calendar-title": "September 2025",
+        "day-mon": "Mon",
+        "day-tue": "Tue",
+        "day-wed": "Wed",
+        "day-thu": "Thu",
+        "day-fri": "Fri",
+        "day-sat": "Sat",
+        "day-sun": "Sun"
+      }
+    },
+    "b": {
+      "slide0": {
+        "title": "Synclear",
+        "description": "World clock notes"
+      },
+      "slide1": {
+        "title": "All Your Notes in One Place",
+        "description": "Write Today, Remember Tomorrow"
+      },
+      "slide2": {
+        "title": "Organize your memory",
+        "description": "Keep only what matters"
+      }
+    },
+    "c": {
+      "slide0": {
+        "title": "Clean Your Phone's Storage",
+        "description": "Smart cleaning for more space and better performance"
+      },
+      "slide1": {
+        "title": "Keep Your Files Safe",
+        "description": "Store private photos, videos, and documents securely with a password"
+      },
+      "slide2": {
+        "title": "Boost Your Phone's Speed",
+        "description": "Smart optimization for more space and better performance"
+      }
+    }
+  }
+}

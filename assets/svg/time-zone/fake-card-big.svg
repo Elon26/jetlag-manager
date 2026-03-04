@@ -1,0 +1,27 @@
+<svg width="176" height="160" viewBox="0 0 176 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="176" height="160" rx="10" fill="#F2F3F3" fill-opacity="0.26"/>
+<g opacity="0.1">
+<rect x="10" y="23" width="156" height="20" rx="10" fill="#2F3138"/>
+</g>
+<g opacity="0.1">
+<path d="M10 60.5C10 56.3579 13.3579 53 17.5 53H90.5C94.6421 53 98 56.3579 98 60.5C98 64.6421 94.6421 68 90.5 68H17.5C13.3579 68 10 64.6421 10 60.5Z" fill="#3870FF"/>
+</g>
+<g opacity="0.02">
+<rect x="106" y="53" width="60" height="15" rx="7.5" fill="#2F3138"/>
+</g>
+<g opacity="0.05">
+<rect x="10" y="76" width="156" height="15" rx="7.5" fill="#2F3138"/>
+</g>
+<g opacity="0.05">
+<rect x="10" y="99" width="40" height="15" rx="7.5" fill="#2F3138"/>
+</g>
+<g opacity="0.02">
+<rect x="60" y="99" width="40" height="15" rx="7.5" fill="#2F3138"/>
+</g>
+<g opacity="0.05">
+<rect x="110" y="99" width="40" height="15" rx="7.5" fill="#2F3138"/>
+</g>
+<g opacity="0.05">
+<rect x="10" y="122" width="66" height="15" rx="7.5" fill="#2F3138"/>
+</g>
+</svg>

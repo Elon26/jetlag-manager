@@ -1,0 +1,32 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "strict": true,
+    "lib": ["dom", "DOM.Iterable", "esnext", "ESNext.Array"],
+    "paths": {
+      "@/*": ["./src/*"],
+      "@/db/*": ["./db/*"],
+      "@/svg/*": ["./assets/svg/*"],
+      "@/images/*": ["./assets/images/*"],
+      "@/audio/*": ["./assets/audio/*"],
+      "@/animations/*": ["./assets/animations/*"],
+      "@/src/modules/*": ["./src/modules/*"],
+      "@/modules/*": ["./modules/*"],
+      "@/supabase/*": ["./supabase/*"],
+      "@/drizzle/*": ["./drizzle/*"],
+      "@/convex/*": ["./convex/_generated/*"]
+    }
+  },
+  "include": [
+    "*.ts",
+    "src/**/*.ts",
+    "src/**/*.tsx",
+    "db/**/*.ts",
+    ".expo/types/**/*.ts",
+    "expo-env.d.ts",
+    "env.*.yml",
+    "nativewind-env.d.ts",
+    "generate_timezones.ts"
+  ]
+}
