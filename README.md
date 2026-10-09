@@ -1,121 +1,70 @@
-# jetlag-manager
+# Jetlag & Time Zone Manager (Client App)
 
-A commercial mobile application for task planning and time management across multiple time zones.  
-The app helps users schedule meetings, track tasks in different regions, and manage personal data on the device.
-
-> Commercial project. Published on the App Store under a different name by the client’s request (public link is not available).
+A modern, high-performance client application for task planning, scheduling, and time management across multiple international time zones.
 
 ---
 
 ## 🌍 About the Project
 
-The project is designed for users who work or communicate across different time zones.  
-It provides visual tools for comparing time zones, planning meetings and tasks, and managing personal data directly on the device.
+The application is designed for users who coordinate activities across different regions. It provides visual comparison tools, meeting planners, and multi-timezone scheduling interfaces.
 
-The app focuses on smooth UI/UX, offline-first data storage, and performance on mobile devices.
+The project focuses on complex UI interactions, precise data mapping, and smooth real-time visual updates.
 
 ---
 
 ## 🧰 Tech Stack
 
-**Framework / Platform**
-- React Native  
-- TypeScript  
+**Framework & Core**
+- React Native / Component-Driven Architecture
+- TypeScript
 
-**State / Storage**
-- react-native-mmkv (local storage, no backend)
+**State & Local Storage**
+- react-native-mmkv (local-first storage, no backend)
 
 **Infrastructure & Services**
-- Firebase Storage
-- Firebase Remote Config
-- Sentry  
-- Apphud  
-- Facebook SDK  
+- Firebase (Storage, Remote Config)
+- Sentry, Apphud
 
-**UI / UX**
-- Tailwind (NativeWind)  
-- react-native-reanimated  
+**UI & Styling**
+- Tailwind CSS (NativeWind)
+- react-native-reanimated
 - i18n (localization)
 
 **Tooling**
-- ESLint  
-- Prettier  
+- ESLint, Prettier
 
 ---
 
-## ✨ Key Features
+## ✨ Key Features & Highlights
 
-- 🌐 Time zone management:
-  - add multiple time zones  
-  - visual comparison of time differences between regions  
-- 📅 Task and meeting planning:
-  - schedule tasks and meetings across different time zones  
-  - calendar view  
-  - push notifications for tasks and meetings  
-- 🖼 Device cleanup:
-  - detect low-quality photos  
-  - find duplicate photos  
-  - clean up storage directly from the app  
-- 👥 Duplicate contacts detection:
-  - find contacts with similar names  
-  - find contacts with duplicate phone numbers  
-  - remove duplicates from the device  
-- 🔐 Secure local vault:
-  - store images, videos, and contacts  
-  - restrict access from other apps  
-- 🔑 Password generator & manager:
-  - synced with the system password storage  
-- 🌐 Internet speed test:
-  - measure current network speed on the device  
-- 🔍 Search and filtering across multiple sections  
-- 🎞 Smooth UI transitions and animated charts  
-- 💾 Local-first data storage using MMKV (no backend)
+- **Multi-Zone Management:** Add, configure, and visually compare time differences across multiple regions simultaneously.
+- **Cross-Zone Planning:** Schedule tasks and meetings with integrated calendar views and automated time conversion.
+- **Interactive Controls:** Precise slider mapping allowing users to control multiple time indicators and charts concurrently.
+- **Advanced Filtering & Search:** Instant search and multi-section filtering across dense data sets.
+- **Offline-First Architecture:** Fast local data persistence using MMKV without relying on a remote backend.
+- **Monetization & Analytics:** Integrated subscriptions (Apphud), crash reporting (Sentry), and feature flags (Remote Config).
 
 ---
 
-## 👨‍💻 Role & Responsibilities
+## 👨‍💻 Role & Engineering Contributions
 
-The project was implemented entirely by me:
-- designed the application architecture;  
-- implemented business logic and local data storage;  
-- built complex UI with animations and charts;  
-- integrated notifications and calendar features;  
-- connected third-party services (analytics, crash reporting, monetization);  
-- prepared the app for production release.
-
----
-
-## 🧠 Challenges & Technical Decisions
-
-- Optimized time zone search and filtering to ensure fast loading and smooth user experience.  
-- Implemented a complex time zone slider with precise percentage-based mapping:
-  - the slider controls multiple UI elements simultaneously;  
-  - all related visualizations update smoothly and proportionally;  
-- Designed animation logic so that charts and time indicators update in sync with user interactions.  
-- Paid special attention to performance due to heavy UI animations and large data sets.
+- Designed and implemented the complete application architecture from scratch.
+- Developed complex time conversion logic and synchronized interactive sliders.
+- Built performance-optimized UI components capable of handling high-frequency state updates and heavy layout animations.
+- Integrated third-party SDKs for analytics, monitoring, and in-app purchases.
 
 ---
 
 ## 🚀 Local Setup
 
-The project cannot be started without a .env file because it contains confidential keys and tokens.
+Clone the repository and install dependencies to run the project locally:
 
-Installation and run:
+```bash
+# Clone the repository
+git clone https://github.com/Elon26/jetlag-manager.git
 
-- npm install
-- npm run start
+# Install dependencies
+npm install
 
----
-
-## 🧪 Code Quality
-
-- ESLint and Prettier are configured  
-- No automated tests (manual QA by a dedicated tester)  
-- Multiple environment variables are used for service configuration  
-
----
-
-## 📌 Notes
-
-This repository is intended to demonstrate architecture, UI complexity, and development approach.  
-The production version is published in the App Store under a different name according to the client’s requirements.
+# Run the project
+npm run start
